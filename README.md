@@ -1,4 +1,4 @@
-# cd-my-favourite-celebrity
+# My favourite celebrity
 
 ![cd-my-favourite-celebrity](banner.png)
 
