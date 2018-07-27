@@ -1,3 +1,3 @@
-## Basic Styling
+## Styling our webpage
 
-+ Colours and fonts
++ Change Background colour of the page and font colours and styles
