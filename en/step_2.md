@@ -2,12 +2,8 @@
 
 ### Hardware
 
-+ List hardware here, or delete section.
++ Computer capable of running trinket.io
 
 ### Software
 
-+ List software here, or delete section.
-
-### Additional Resources
-
-+ List additional resources, or delete section.
++ This project can be completed in a web browser using trinket.io

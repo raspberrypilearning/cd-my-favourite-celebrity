@@ -1,3 +1,3 @@
-## Step title
+## Getting started
 
-+ Step content...
++ Setting up trinket and remixing

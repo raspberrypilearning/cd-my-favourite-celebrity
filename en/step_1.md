@@ -1,16 +1,15 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+Learn how to code a webpage about your favourite celebrity!
 
 ### What you will make
 
-Add something here to showcase here, for example:
+Build a webpage like the one in the trinket below.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+<div class="trinket">
+  <iframe src="https://trinket.io/embed/html/4222be8f1f?outputOnly=true&start=result" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  </iframe>
 </div>
-
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
 
 ### What you will learn
 
