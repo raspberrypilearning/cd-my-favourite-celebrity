@@ -1,3 +1,3 @@
-## Getting started
+## Challenge
 
-+ Setting up trinket and remixing
++ Using what you've learnt, create a webpage about your favourite book, tv show or movie
