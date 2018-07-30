@@ -1,7 +1,13 @@
 ## My first webpage
 
 + Find the line that says `Hello World` and change it to say who your favourite celebrity is. **Don't** remove the tags `<p>` and `</p>`. You should see your webpage change on the right-hand side.
+
+![Hello World in the code](images/helloWorldLine.png "Hello World")
+
 + Add a new line and this time use the tags `<h1>` and `</h1>` instead of `<p>` and `</p>`. Can you guess what the `<h1>` tag does?
+```html
+  <h1>Welcome to my webpage!</h1>
+```
 --- collapse ---
 ---
 title: HTML and tags explained
