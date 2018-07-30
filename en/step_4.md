@@ -1,8 +1,6 @@
 ## My first webpage
 
-+ Edit a hello world webpage to change the text using p and h1 tags. One sentence on h1-h6 tags
-
-+ Find the line that says `Hello World` and change it to say who your favourite celebrity is. Don't remove the tags `<p>` and `</p>`. You should see your webpage change on the right-hand side.
++ Find the line that says `Hello World` and change it to say who your favourite celebrity is. **Don't** remove the tags `<p>` and `</p>`. You should see your webpage change on the right-hand side.
 + Add a new line and this time use the tags `<h1>` and `</h1>` instead of `<p>` and `</p>`. Can you guess what the `<h1>` tag does?
 --- collapse ---
 ---
