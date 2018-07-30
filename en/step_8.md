@@ -1,3 +1,3 @@
-## Lists and Links
+## Embedding Twitter feeds in our webpage
 
-+ a tag, ul, ol, li tags and lists with links as list items
++ Putting Twitter feeds in our webpage using the embed widget on Twitter.

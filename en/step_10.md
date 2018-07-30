@@ -1,3 +1,3 @@
-## Challenge
+## More Styling
 
-+ Using what you've learnt, create a webpage about your favourite book, tv show or movie
++ Center the Title, style our footer and wrap text around image.

@@ -1,3 +1,3 @@
 ## Getting started
 
-+ Setting up trinket and remixing
++ Setting up trinket and remixing. Use ingredient.

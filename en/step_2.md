@@ -2,7 +2,7 @@
 
 ### Hardware
 
-+ Computer capable of running trinket.io
++ Computer capable of running a modern web browser.
 
 ### Software
 

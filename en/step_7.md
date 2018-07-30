@@ -1,3 +1,3 @@
-## Embedding YouTube videos and Twitter feeds in our webpage
+## Embedding YouTube videos in our webpage
 
-+ putting youtube videos and twitter feeds in html using embed share option on those sites
++ Putting youtube videos in our webpage using the embed share option on YouTube.

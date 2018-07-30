@@ -1,3 +1,3 @@
-## More Styling
+## Add links to other websites
 
-+ text-allign, list styling with classes and minor positioning
++ Create a list of items using ul and li tags. Change the items in the list into links using a tag.
