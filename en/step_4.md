@@ -8,10 +8,12 @@
 ```html
   <h1>Welcome to my webpage!</h1>
 ```
+
 --- collapse ---
 ---
 title: HTML and tags explained
 ---
+
 **HTML** is the code that makes a webpage.
 
 The `.html` in the file name tells the browser that the file is a webpage, so the browser knows to look for **tags** telling it what to display. (A browser is the program you use to look at websites, for example Google Chrome or Mozilla Firefox.)
@@ -26,6 +28,7 @@ Everything in between the `<body>` and `</body>` tags is your webpage.
 - Notice how the closing tag **always** has a forward slash `/`.
   
 --- /collapse ---
+
 + Change the number in your **heading** tags to see the different sizes available. They can go from `<h1>` to `<h6>`.
 
 --- challenge ---
