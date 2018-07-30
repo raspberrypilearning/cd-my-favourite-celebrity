@@ -2,7 +2,7 @@
 
 Let's add a picture!
 
-+ Go to the tab named `index.html`. Type the following anywhere between the `<main>` tag: 
++ Go to the tab named `index.html`. Type the following anywhere between the `<body> </body>` tags: 
 
 ```html
     <img src="maddie.jpg" alt="Maddie Moate" width="200px" />
