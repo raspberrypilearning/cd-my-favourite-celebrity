@@ -1,6 +1,4 @@
-## Styling our webpage
-
-+ Change Background colour of the page and font colours and styles
+## Styling your webpage
 
 The code that describes how a website looks is called CSS.
 
@@ -34,7 +32,7 @@ Each rule inside the curly braces is made up of:
    
 --- /collapse ---
 
-+ Lets add two new **CSS rules** for the `<p>` tag. One for the text `color` and one for the text `font-family`.
++ Let's add two new **CSS rules** for the `<p>` tag. One for the text `color` and one for the text `font-family`.
 
 ![CSS p selector rules in code](images/darkRedTextColour.png "now p selector has rules")
 
