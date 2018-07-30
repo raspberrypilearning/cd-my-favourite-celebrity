@@ -1,6 +1,7 @@
 ## Getting started
 
 + Go to the [the starter trinket](https://trinket.io/html/15bfdbad45){:target="_blank"}. Here, you will see a box containing an example website project. On the right-hand side is the website, and on the left-hand side is the code that makes the website.
+
 ![Web page and code in trinket](images/htmlStarterTrinket.png "Starter trinket")
 
 <!--- starter trinket needs dojo.soy link? -->
@@ -39,5 +40,4 @@ If you want to create an account on Trinket, follow the steps below. This will a
 
 --- /collapse ---
 
-
---- save ---
+Let's start coding!
