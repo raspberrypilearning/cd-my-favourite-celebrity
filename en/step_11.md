@@ -2,7 +2,7 @@
 
 --- challenge ---
 
-Using what you've learnt, create more webpages about members of your favourite band or the cast of your favourite movie/tv show.
+Using what you've learnt, create more webpages about members of your favourite band, the cast of your favourite movie/tv show or the players on your favourite sports team.
 
 --- collapse ---
 ---
@@ -13,7 +13,7 @@ title: How to create a new page on trinket
 
 + Enter a file name eg bandmember1.html or eddiemurphy.html **Remember to include the `.html`!**
 
-+ Copy and Paste the basic html code often called **boilerplate code**
++ Copy and paste the basic html code often called **boilerplate code**
 
 ``` html
     <html>

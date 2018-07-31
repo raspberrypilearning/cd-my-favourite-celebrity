@@ -10,7 +10,7 @@ Let's add a picture!
 
 Here's what the result should look like:
     
-![Image code and picture of Maddison Moate](images/imageCodeMaddie.png)
+![Image code and picture of Maddie Moate](images/imageCodeMaddie.png)
 
 Notice that this tag has extra bits of information inside it. They are called **attributes**.
 
@@ -46,7 +46,7 @@ Once you have a picture, you can **upload** the file to Trinket **if you have an
 
 ![The image icon](images/tktImageIconArrow.png)
 
-This is where you can see the pictures that you are able to use on your website. You should see the picture of the Maddison Moate.
+This is where you can see the pictures that you are able to use on your website. You should see the picture of the Maddie Moate.
 
 - Click the button **Image Library** and then click **Upload New Image**. 
 
