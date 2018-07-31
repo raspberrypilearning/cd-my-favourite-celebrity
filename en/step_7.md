@@ -1,3 +1,25 @@
 ## Embedding YouTube videos in our webpage
 
-+ Putting youtube videos in our webpage using the embed share option on YouTube.
+YouTube provides an easy way for you to include its videos in your webpage. Adding elements from other online sources is called **embedding**. Let's include a video about our celebrity. I'm adding a video from Maddie Moates YouTube channel but you could add an interview, music video or movie trailer with your favourite celebrity.
+
++ Find a video on YouTube that you want to show on your website. 
+
++ Click on the **Share** button below the video, beside the likes. Select the option **Embed**.
+
++ You will see a text box with some code in it, if you scroll down you can change some of the options for the video.
+
+![Embed Options](images/youtubeEmbedOptions.png)
+
++ When you have selected which options you would like for your webpage, scroll up and copy the text. To copy the text, first it must be selected. You can select it all by clicking on it and pressing the <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>A</kbd> keys at the same time.
+
+![Selected Text](images/youtubeSelectedText.png)
+
++ Press the <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>C</kbd> keys together to copy the text.
+
++ Then go back to your website's HTML code, and click in the place where you want to put the video, for example below a heading or paragraph. **Paste** the code by pressing <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>V</kbd> on your keyboard at the same time. Don't worry about understanding all the code you just pasted!
+
+![Pasted code on trinket](images/pastedVideoCode.png)
+
+You should see the video appear on your webpage.
+
++ If you look carefully, you should find `width` and `height` **attributes** in the pasted code. You can change their values to make the video appear bigger or smaller.
