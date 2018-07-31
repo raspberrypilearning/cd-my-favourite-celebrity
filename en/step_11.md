@@ -1,3 +1,58 @@
-## Challenge
+## Challenge: more pages
 
-+ Using what you've learnt, create a webpage about your favourite book, tv show or movie
+--- challenge ---
+
+Using what you've learnt, create more webpages about members of your favourite band or the cast of your favourite movie/tv show.
+
+--- collapse ---
+---
+title: How to create a new page on trinket
+---
+
++ Click the plus button to the right of your current pages eg index.html and stylesheet.css
+
++ Enter a file name eg bandmember1.html or eddiemurphy.html **Remember to include the `.html`!**
+
++ Copy and Paste the basic html code often called **boilerplate code**
+
+``` html
+    <html>
+    <head>
+        <title>My Title</title>
+        <link rel="stylesheet" href="stylesheet.css" type="text/css">
+    </head>
+    <body>
+        
+    </body>
+    </html>
+```
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: How to go between my pages
+---
+
++ To create a link between two of your pages you must use the `<a> </a>` tag
+
++ Put the `attribute` called `href` in the first set of brackets and set it `=` to the filename of the page you would like to link to. The text between both sets of brackets is displayed on your webpage as the link.
+
+``` html
+    <html>
+    <head>
+        <title>Page 1</title>
+        <link rel="stylesheet" href="stylesheet.css" type="text/css">
+    </head>
+    <body>
+        <h1>Welcome to page 1</h1>
+        <a href="page2.html">Go to Page 2</a>
+    </body>
+    </html>
+```
+
+![Local relative link](images/localRelativeLink.png)
+
+--- /collapse ---
+
+--- /challenge ---
