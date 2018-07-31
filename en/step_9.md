@@ -20,7 +20,7 @@ title: Some links not working?
 Most websites like Twitter and Facebook don't allow their website to be opened in an `<iframe>` which is what trinket uses to show you your website. Links like these will work if you download your code and open it in a browser. If you include the attribute `target="_blank"` in the anchor tag, it works in trinket but it opens your link in a new tab! 
 
 ```html
-<a href="https://www.Twitter.com/" target="_blank">Opens in a new tab</a>
+<a href="https://www.twitter.com/" target="_blank">Opens in a new tab</a>
 ```
 
 --- /collapse ---
@@ -29,7 +29,7 @@ Let's create a few links in a **list** to get to our celebrity's social media pa
 
 + To create an **unordered list** we must use the `<ul> </ul>` and `<li> </li>` tags.
 
-+ Each **list item** must have an `<li> </li>` tag around it.
++ Each **list item** must have `<li> </li>` tags around it.
 
 ![Unordered list of links](images/unorderedListOfLinks.png)
 
