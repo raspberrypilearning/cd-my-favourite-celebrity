@@ -8,7 +8,9 @@ Next we are going to add a **link** to another website. I'm going to add a link 
 <a href="https://en.wikipedia.org/wiki/Maddie_Moate" >This is the link to Maddie's wikipedia page.</a>
 ```
 
-+ the `href` attribute should contain the **URL** of the website that you wish to go to. The text between `<a>` and `</a>` is the text that will appear on your webpage as a link.
++ the `href` attribute should contain the **URL** of the website that you wish to go to. The text between `<a>` and `</a>` is the text that will appear on your webpage as a link. The URL for the page you want to add will be located at the top of your browser in the **address bar**
+
+![URL in address bar](images/addressBarExample.png)
 
 --- collapse ---
 ---
