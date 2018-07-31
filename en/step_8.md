@@ -2,11 +2,11 @@
 
 Twitter also provides an easy way for you to use its services in your webpage. I'm going to **embed** Maddie Moates Twitter profile on my webpage, add your favourite celebrity's profile too if they have a twitter.
 
-+ First, find your celebrity on twitter and copy the `URL` at the top of your browser as seen in the image below
++ First, find your celebrity on twitter and again using <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>C</kbd>, copy the `URL` at the top of your browser as seen in the image below
 
 ![Address bar highlighted](images/addressBarSelectedText.png)
 
-+ Next, go to [publish.twitter.com](https://publish.twitter.com) and paste the `URL` in the box in the middle of the page and click the arrow beside the box. 
++ Next, go to [publish.twitter.com](https://publish.twitter.com) and paste the `URL` (with <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>V</kbd> on your keyboard) in the box in the middle of the page and click the arrow beside the box. 
 
 + Select the Embedded Timeline option on the left
 
@@ -16,6 +16,6 @@ Twitter also provides an easy way for you to use its services in your webpage. I
 
 ![Copy message](images/copiedMessage.png)
 
-+ Then go back to your website's HTML code, and click in the place where you want to put the twitter profile and paste the code with <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>V</kbd> on your keyboard. Again, don't worry about understanding all the code you just pasted!
++ Then go back to your website's HTML code, and click in the place where you want to put the twitter profile and paste the code. Again, don't worry about understanding all the code you just pasted!
 
 ![Twitter code on trinket](images/twitterCodeTkt.png)
