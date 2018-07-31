@@ -1,3 +1,21 @@
-## Embedding Twitter feeds in our webpage
+## Embedding Twitter profile in our webpage
 
-+ Putting Twitter feeds in our webpage using the embed widget on Twitter.
+Twitter also provides an easy way for you to use its services in your webpage. I'm going to **embed** Maddie Moates Twitter profile on my webpage, add your favourite celebrity's profile too if they have a twitter.
+
++ First, find your celebrity on twitter and copy the `URL` at the top of your browser as seen in the image below
+
+![Address bar highlighted](images/addressBarSelectedText.png)
+
++ Next, go to [publish.twitter.com](https://publish.twitter.com) and paste the `URL` in the box in the middle of the page and click the arrow beside the box. 
+
++ Select the Embedded Timeline option on the left
+
++ Now you can select customisation options if you would like. I'm going to click on `customization options` and change the `How would you like this to look?` setting from `Light` to `Dark`. Change whatever options you want to and then click `update`.
+
++ When you are done or if you didn't change any settings, click the `Copy Code` button and you should get a message "Copied!" to pop up on screen.
+
+![Copy message](images/copiedMessage.png)
+
++ Then go back to your website's HTML code, and click in the place where you want to put the twitter profile and paste the code with <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>V</kbd> on your keyboard. Again, don't worry about understanding all the code you just pasted!
+
+![Twitter code on trinket](images/twitterCodeTkt.png)
