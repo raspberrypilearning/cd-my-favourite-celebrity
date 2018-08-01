@@ -50,7 +50,7 @@ The `color` property changes the colour of all text inside `<p>` tags. `font-fam
 
 --- hint ---
 
-To create CSS rules you must have a selector e.g. `h1`, some curly braces `{ }` to put the rules in.
+To create CSS rules you must have a selector e.g. `h1` and some curly braces `{ }` to put the rules in.
 
 --- /hint ---
 

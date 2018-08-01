@@ -68,7 +68,7 @@ The text you just changed is the attribute called `src`, which is short for sour
 
 ## Challenge: change the alt text of the picture
 
-- Find the `alt` attribute of your image element and change the text in it to a short description of your picture. 
+- Find the `alt` attribute of your image element and change the text in it to a short description of your picture. This attribute is used when the browser can't find your file. Instead it will display your **alternative** text. 
 
 --- /challenge ---
 
