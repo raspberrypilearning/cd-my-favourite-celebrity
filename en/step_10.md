@@ -42,7 +42,8 @@ Let's remove the underlining on the social media links and change their colour. 
 </ul>
 ```
 
-+ Now we can use a `.` in front of the class name like `.SocialMediaLinks` as the selector for the group of rules we want to use.
++ Now we can use a `.` in front of the class name like `.SocialMediaLinks` as the selector for the group of rules we want to use. To remove the underline, use the property `text-decoration` and set the value to `none`.
 
-image with code and result
+![Classes code example](images/classExampleWithCode.png)
 
+Now the social media links look different to default links but we can still click on them!
