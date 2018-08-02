@@ -1,6 +1,6 @@
 ## More Styling
 
-Let's position the text on the page to look much better and put a border on our image.
+Let's position the text on the page to look better and put a border on our image.
 
 + First you are going to use the `text-align` property on your `<h1>` tags to horizontally centre your heading. We can use four values for this: `left`, `right`, `center` or `justify`. Try them out to see what they do!
 
@@ -10,7 +10,7 @@ h1{
 }
 ```
 
-+ Next let's add that border on the `img`. The property we need here is `border`. There are plenty of different border options, the full list can be found here: **[Borders](https://www.w3schools.com/css/css_border.asp)**. We will use the shortest one like I've used below:
++ Next let's add that border on the `img`. The property we need here is `border`. There are plenty of different border options, the full list can be found here: **[Borders](https://www.w3schools.com/css/css_border.asp)**. I  will use the shortest one as can be seen below:
 
 ```css
 img{
@@ -20,36 +20,29 @@ img{
 
 The first value here `2px` is the width of the border in pixels( the little dots that make up our screens ). The second value describes the border style, in our case it's `solid` but you could have `dotted` or `dashed` too. The final one is the border colour. 
 
-+ Now let's wrap our `<p>` text around our image and put the image in the top left like so:
-
-image
-
-+ To do this we must add more rules to our `img` tag. Use the `float` property with the value `left`. This will force the image to the left of the page and allow the following text to move up beside the image.
++ You can remove the bullet points from your list with the `list-style-type` property. Your selector for this must be the entire list, `<ul>`, and not the individual items. By default the value is `disc` and to remove the bullet points you set it to `none`. Let's centre this text too.
 
 ```css
-img{
-    border: 2px solid black;
-    float: left;
+ul{
+    list-style-type: none;
+    text-align: center;
 }
 ```
 
-+ You can also add a `margin` around the image to avoid it looking cluttered. The values are in the order top, right, bottom, left. Try add 10px on the right and bottom so some space is added between the image and the text.
+Let's remove the underlining on the social media links and change their colour. We can't use the `<a>` selector because this will change our other link, in my case the wikipedia link. We can, however, use css **classes**. Classes are used to group elements together and style them all under one selector.
 
-```css
-img{
-    border: 2px solid black;
-    float: left;
-    margin: 0px 10px 10px 0px;
-}
++ First we must add a class attribute in each element in the HTML code. My class will be called `"SocialMediaLinks"`.
+
+```html
+<ul>
+    <li><a class="SocialMediaLinks" target="_blank" href="https://twitter.com/maddiemoate">Twitter: </a></li>
+    <li><a class="SocialMediaLinks" target="_blank" href="https://www.facebook.com/maddiemoatepresenter/">Facebook: </a></li>
+    <li><a class="SocialMediaLinks" target="_blank" href="https://www.youtube.com/user/maddiemoate">Youtube: </a></li>
+    <li><a class="SocialMediaLinks" target="_blank" href="https://www.instagram.com/maddiemoate">Instagram: </a></li>
+</ul>
 ```
 
-+ If you are noticing that more than one html element is being pushed beside the image like so:
++ Now we can use a `.` in front of the class name like `.SocialMediaLinks` as the selector for the group of rules we want to use.
 
-image
-
-You can use the `clear` property to make the second element appear below the image on the webpage:
-
-image of clear plus css code to clear
-
-
+image with code and result
 
