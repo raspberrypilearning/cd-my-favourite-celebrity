@@ -1,10 +1,11 @@
 ## My first webpage
 
-+ Find the line that says `Hello World` and change it to say who your favourite celebrity is. **Don't** remove the tags `<p>` and `</p>`. You should see your webpage change on the right-hand side.
++ Find the line that says `<p>Hello World</p>` and replace the text between `<p>` and `</p>` to say who your favourite celebrity is. **Don't** remove the `<p>` and `</p>`. These are **paragraph** tags. They are used to define a paragraph of text. You should see your webpage change on the right-hand side. 
 
 ![Hello World in the code](images/helloWorldLine.png "Hello World")
 
-+ Add a new line and this time use the tags `<h1>` and `</h1>` instead of `<p>` and `</p>`. Can you guess what the `<h1>` tag does?
++ Add a new line and this time use `<h1>` and `</h1>` instead of `<p>` and `</p>`. These are **heading** tags. It enlarges the text and makes it bold.
+
 ```html
   <h1>Welcome to my webpage!</h1>
 ```
@@ -29,7 +30,7 @@ Everything in between the `<body>` and `</body>` tags is your webpage.
   
 --- /collapse ---
 
-+ Change the number in your **heading** tags to see the different sizes available. They can go from `<h1>` to `<h6>`.
++ Change the number in your **heading** tags to see the different sizes available. They can go from `<h1>` to `<h6>`. Remember to change the number in both the opening and closing tags!
 
 --- challenge ---
 
