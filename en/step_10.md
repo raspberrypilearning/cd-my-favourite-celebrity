@@ -31,7 +31,7 @@ title: How to create a new page on Trinket
 
 --- collapse ---
 ---
-title: How to go between my pages
+title: How to go between your pages
 ---
 
 + To create a link between two of your pages you must use the `<a> </a>` tag

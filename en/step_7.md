@@ -1,6 +1,6 @@
 ## Including YouTube videos in our webpage
 
-YouTube provides an easy way for you to include its videos in your webpage. Adding elements from other online sources is called **embedding**. Let's include a video about our celebrity. I'm adding a video from Maddie Moates YouTube channel but you could add an interview, music video or movie trailer with your favourite celebrity.
+YouTube provides an easy way for you to include its videos in your webpage. Adding elements from other online sources is called **embedding**. Let's include a video about your celebrity. This example adds a video from Maddie's YouTube channel but you could add an interview, music video or movie trailer with your favourite celebrity.
 
 + Find a video on YouTube that you want to show on your website. 
 

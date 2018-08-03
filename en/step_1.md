@@ -4,7 +4,7 @@ Learn how to code a webpage about your favourite celebrity!
 
 ### What you will make
 
-Build a webpage like the one in the trinket below.
+Build a webpage like the one in the Trinket below.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/4222be8f1f?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>

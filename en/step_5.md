@@ -2,7 +2,7 @@
 
 The code that describes how a website looks is called CSS.
 
-+ Look at the top of the code panel on trinket. Click on the file called `stylesheet.css`.
++ Look at the top of the code panel on Trinket. Click on the file called `stylesheet.css`.
 
 + Change the value `White` to `LightYellow` and see what happens to your page.
 
@@ -38,7 +38,15 @@ Each rule inside the curly braces is made up of:
 
 + Notice the changes?
 
-The `color` property changes the colour of all text inside `<p>` tags. `font-family` changes how the text looks.
+The `color` property changes the colour of all text inside the selector, `<p>` tags. `font-family` changes how the text looks.
+
++ Next you are going to use the `text-align` property on your `<h1>` tags to horizontally centre your heading. We can use these values for this: `left`, `right` or `center`. Try them out to see what they do!
+
+```css
+h1{
+    text-align: center;
+}
+```
 
 --- challenge ---
 
@@ -82,4 +90,4 @@ Here are some rules for a `<h1>` tag
 
 You can find more fonts [here](https://www.w3schools.com/cssref/css_websafe_fonts.asp) and find more colours [here](https://www.w3schools.com/colors/colors_names.asp).
 
-Next we will look at adding images to our webpage.
+Next you will look at adding images to our webpage.

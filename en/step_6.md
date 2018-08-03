@@ -30,7 +30,7 @@ The tag contains **attributes** with extra information:
 
 --- /collapse ---
 
-Now that you know the code to put a picture on your website, you probably want to change the picture, right? **If you have a Trinket account** you can follow the instructions below to get your picture on your website. If you don't have an account, you can use the rocketship already available on Trinket.
+Now that you know the code to put a picture on your website, you probably want to change the picture, right? **If you have a Trinket account** you can follow the instructions below to get your picture on your website. If you don't have an account, you can use the rocketship already available on Trinket or keep the picture of Maddie.
 
 + The first thing you will need is, of course, a picture! You can either use one you've already got on your computer, such as a photograph you took, or you can get one from the internet.
 
@@ -62,13 +62,23 @@ Your picture will be uploaded and should be ready to use.
 
 The text you just changed is the attribute called `src`, which is short for source and tells the browser which file to display.
 
-**Note:** the value you type for an attribute must have quotation marks `""` around it!
+**Note:** the value you type for an attribute must have quotation marks `" "` around it!
+
++ Next let's add a border on the `img` with **CSS** (so be sure to change back to the `.css` file). The property we need here is `border`. There are plenty of different border options, the full list can be found here: **[Borders](https://www.w3schools.com/css/css_border.asp)**. I will use the shortest one as can be seen below:
+
+```css
+img{
+    border: 2px solid Black; 
+}
+```
+
+The first value here `2px` is the width of the border in pixels( the little dots that make up our screens ). The second value describes the border style, in our case it's `solid` but you could have `dotted` or `dashed` too. The final one is the border colour.
 
 --- challenge ---
 
 ## Challenge: change the alt text of the picture
 
-- Find the `alt` attribute of your image element and change the text in it to a short description of your picture. This attribute is used when the browser can't find your file. Instead it will display your **alternative** text. 
+- Find the `alt` attribute of your image element and change the text in it to a short description of your picture. This attribute is used when the browser can't find your file or to help people with screen readers understand what the picture is. Instead it will display your **alternative** text or read it aloud. 
 
 --- /challenge ---
 

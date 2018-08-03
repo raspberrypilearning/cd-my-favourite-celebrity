@@ -74,4 +74,4 @@ The code for a size 1 heading looks like this:
 
 --- /challenge ---
 
-Congratulations! You have built your first webpage. Next we will style our webpage.
+Congratulations! You have built your first webpage. Next you will style your webpage.

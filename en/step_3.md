@@ -1,8 +1,8 @@
 ## Getting started
 
-+ Go to the [the starter trinket](https://trinket.io/html/15bfdbad45){:target="_blank"}. Here, you will see a box containing an example website project. On the right-hand side is the website, and on the left-hand side is the code that makes the website.
++ Go to the [the starter Trinket](https://trinket.io/html/15bfdbad45){:target="_blank"}. Here, you will see a box containing an example website project. On the right-hand side is the website, and on the left-hand side is the code that makes the website.
 
-![Web page and code in trinket](images/htmlStarterTrinket.png "Starter trinket")
+![Web page and code in Trinket](images/htmlStarterTrinket.png)
 
 <!--- starter trinket needs dojo.soy link? -->
 
