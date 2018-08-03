@@ -30,7 +30,7 @@ The tag contains **attributes** with extra information:
 
 --- /collapse ---
 
-Now that you know the code to put a picture on your website, you probably want to change the picture, right?
+Now that you know the code to put a picture on your website, you probably want to change the picture, right? **If you have a Trinket account** you can follow the instructions below to get your picture on your website. If you don't have an account, you can use the rocketship already available on Trinket.
 
 + The first thing you will need is, of course, a picture! You can either use one you've already got on your computer, such as a photograph you took, or you can get one from the internet.
 
@@ -40,13 +40,13 @@ Now that you know the code to put a picture on your website, you probably want t
 
 [[[images-permissions-to-use]]]
 
-Once you have a picture, you can **upload** the file to Trinket **if you have an account**: 
+Once you have a picture, you can **upload** the file to Trinket: 
 
-+ In your trinket, click on the **image** icon next to the **+** sign. 
++ In your Trinket, click on the **image** icon next to the **+** sign. 
 
 ![The image icon](images/tktImageIconArrow.png)
 
-This is where you can see the pictures that you are able to use on your website. You should see the picture of the Maddie Moate.
+This is where you can see the pictures that you are able to use on your website. You should see the picture of Maddie.
 
 - Click the button **Image Library** and then click **Upload New Image**. 
 

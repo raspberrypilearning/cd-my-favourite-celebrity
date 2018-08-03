@@ -4,6 +4,7 @@ description: Create your first website about your favourite celebrity.
 version: 4
 listed: false
 copyedit: false
+ingredient: false
 last_tested: "2018-08-02"
 steps:
   - title: Introduction
@@ -15,5 +16,4 @@ steps:
   - title: Embedding YouTube videos in our webpage
   - title: Embedding Twitter profiles in our webpage
   - title: Add links to other websites
-  - title: More styling
   - title: Challenge

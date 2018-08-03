@@ -1,8 +1,8 @@
-## Embedding Twitter profile in our webpage
+## Inserting a Twitter profile in our webpage
 
-Twitter also provides an easy way for you to use its services in your webpage. I'm going to **embed** Maddie Moates Twitter profile on my webpage, add your favourite celebrity's profile too if they have a twitter.
+Twitter also provides an easy way for you to use its services in your webpage. I'm going to **embed** Maddie Moates Twitter profile on my webpage, add your favourite celebrity's profile too if they have a Twitter.
 
-+ First, find your celebrity on twitter and again using <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>C</kbd>, copy the `URL` at the top of your browser as seen in the image below
++ First, find your celebrity on Twitter and again using <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>C</kbd>, copy the `URL` at the top of your browser as seen in the image below
 
 ![Address bar highlighted](images/addressBarSelectedText.png)
 
@@ -16,6 +16,6 @@ Twitter also provides an easy way for you to use its services in your webpage. I
 
 ![Copy message](images/copiedMessage.png)
 
-+ Then go back to your website's HTML code, and click in the place where you want to put the twitter profile and paste the code. Again, don't worry about understanding all the code you just pasted!
++ Then go back to your website's HTML code, and click in the place where you want to put the Twitter profile and paste the code. Again, don't worry about understanding all the code you just pasted!
 
 ![Twitter code on trinket](images/twitterCodeTkt.png)

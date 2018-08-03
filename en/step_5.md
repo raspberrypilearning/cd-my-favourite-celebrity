@@ -4,7 +4,7 @@ The code that describes how a website looks is called CSS.
 
 + Look at the top of the code panel on trinket. Click on the file called `stylesheet.css`.
 
-+ Change the value `white` to `LightYellow` and see what happens to your page.
++ Change the value `White` to `LightYellow` and see what happens to your page.
 
 ![CSS background-color in code](images/yellowBackground.png "Yellow Background Colour")
 
@@ -42,9 +42,9 @@ The `color` property changes the colour of all text inside `<p>` tags. `font-fam
 
 --- challenge ---
 
-## Challenge: Style your webpage
+## Challenge: Style your heading
 
-+ Create some more CSS rules for your webpage. Perhaps make some rules for a `<h1>` tag?
++ Make your heading YellowGreen with a Brown background and use the Imapct font.
 
 --- hints ---
 
@@ -56,7 +56,7 @@ To create CSS rules you must have a selector e.g. `h1` and some curly braces `{ 
 
 --- hint ---
 
-A rule must have a property e.g. `color` followed by a colon `:` and a value e.g. `blue`.
+A rule must have a property e.g. `color` followed by a colon `:` and a value e.g. `Blue`.
 A rule must always end with a semi-colon `;` too.
 
 
@@ -67,9 +67,10 @@ A rule must always end with a semi-colon `;` too.
 Here are some rules for a `<h1>` tag
 
 ```css
-  h1 {
-      color: blue;
-      font-family: "Times New Roman", serif;
+  h1{
+    font-family: "Impact", sans-serif;
+    color: YellowGreen;
+    background-color: Brown;
   }
 ```
 

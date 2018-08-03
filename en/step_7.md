@@ -1,4 +1,4 @@
-## Embedding YouTube videos in our webpage
+## Including YouTube videos in our webpage
 
 YouTube provides an easy way for you to include its videos in your webpage. Adding elements from other online sources is called **embedding**. Let's include a video about our celebrity. I'm adding a video from Maddie Moates YouTube channel but you could add an interview, music video or movie trailer with your favourite celebrity.
 
@@ -6,11 +6,7 @@ YouTube provides an easy way for you to include its videos in your webpage. Addi
 
 + Click on the **Share** button below the video, beside the likes. Select the option **Embed**.
 
-+ You will see a text box with some code in it, if you scroll down you can change some of the options for the video.
-
-![Embed Options](images/youtubeEmbedOptions.png)
-
-+ When you have selected which options you would like for your webpage, scroll up and copy the text. To copy the text, first it must be selected. You can select it all by clicking on it and pressing the <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>A</kbd> keys at the same time.
++ You will see a text box with some code in it. You need to copy the text. First it must be selected. You can select it all by clicking on it and pressing the <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>A</kbd> keys at the same time.
 
 ![Selected Text](images/youtubeSelectedText.png)
 
