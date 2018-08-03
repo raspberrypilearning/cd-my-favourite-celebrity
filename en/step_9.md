@@ -1,4 +1,4 @@
-## Add links to other websites
+## Create links to other websites
 
 Next you are going to add a **link** to another website. Your going to add a link to Maddie's Wikipedia page: wikipedia.org/wiki/Maddie_Moate
 
