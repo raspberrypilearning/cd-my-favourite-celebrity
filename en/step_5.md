@@ -58,7 +58,7 @@ This is where you can see the pictures that you are able to use on your website.
 
 Your picture will be uploaded and should be ready to use.
 
-- Go to the file `index.html` and find the `<img>` tag. Change the text `maddie.jpg` so that it exactly matches the name of the image file you've chosen. Note that its name might end in `.png` instead of `.jpg`!
+- Go to the file `index.html` and find the `<img>` tag. Change the text `maddie.jpg` so that it exactly matches the name of the image file you've chosen. Note that its name might end with a different extension, replacing  `.jpg`! Other common extensions for images include `.png`, `.gif` and `.tiff`.
 
 The text you just changed is the attribute called `src`, which is short for source and tells the browser which file to display.
 
