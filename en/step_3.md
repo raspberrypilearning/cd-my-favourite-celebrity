@@ -1,35 +1,93 @@
-## My first webpage
+## Styling your webpage
 
-+ Find the line that says `<p>Hello World</p>` and replace the text between `<p>` and `</p>` to say who your favourite celebrity is. **Don't** remove the `<p>` and `</p>`. These are **paragraph** tags. They are used to define a paragraph of text. You should see your webpage change on the right-hand side. 
+The code that describes how a website looks is called CSS.
 
-![Hello World in the code](images/helloWorldLine.png "Hello World")
++ Look at the top of the code panel on Trinket. Click on the file called `stylesheet.css`.
 
-+ Add a new line and this time use `<h1>` and `</h1>` instead of `<p>` and `</p>`. These are **heading** tags. It enlarges the text and makes it bold.
++ Change the value `White` to `LightYellow` and see what happens to your page.
 
-```html
-  <h1>Welcome to my webpage!</h1>
-```
+![CSS background-color in code](images/yellowBackground.png "Yellow Background Colour")
 
 --- collapse ---
 ---
-title: HTML and tags explained
+title: How does it work?
 ---
 
-**HTML** is the code that makes a webpage.
+If you look at the top of the `index.html` file, you will see the following line:
 
-The `.html` in the file name tells the browser that the file is a webpage, so the browser knows to look for **tags** telling it what to display. (A browser is the program you use to look at websites, for example Google Chrome or Mozilla Firefox.)
+```html
+  <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+```
 
-HTML tags such as `<p>` and `</p>` define different pieces of a page, for example paragraphs, headings, or the body. The pieces are all called **elements**. Think of them as building blocks.
-
-### Why do I need two tags? 
-You need an **opening** and a **closing** tag to tell the browser where elements **start** and **end**. So for a paragraph, the opening `<p>` tag says "Here comes some text that I want you to display as a paragraph." The closing `</p>` tag tells the browser where the paragraph ends. 
-
-Everything in between the `<body>` and `</body>` tags is your webpage. 
-
-- Notice how the closing tag **always** has a forward slash `/`.
+The above line tells the browser to look for a special file named `stylesheet.css`. This special file is called a **style sheet**. You can recognise a style sheet file by the `.css` in its name. 
   
+A style sheet contains **rules** for what each element on your webpage should look like.
+
+The curly braces `{ }` and the code in between them are a set of **CSS rules**. The word `body` means that the rules are for all the `<body>` elements on your website. We call the bit in front of the curly braces a **selector**. So in this case, it is the selector for the body elements.
+
+Each rule inside the curly braces is made up of:
+  - A **property** on the left, followed by a colon symbol `:`
+  - A **value** for the property on the right-hand side after the colon
+  - A semi-colon symbol `;` at the end
+   
 --- /collapse ---
 
-+ Change the number in your **heading** tags to see the different sizes available. They can go from `<h1>` to `<h6>`. Remember to change the number in both the opening and closing tags!
++ Let's add two new **CSS rules** for the `<p>` tag. One for the text `color` and one for the text `font-family`.
 
-Congratulations! You have built your first webpage. Next you will style your webpage.
+![CSS p selector rules in code](images/darkRedTextColour.png "now p selector has rules")
+
++ Notice the changes?
+
+The `color` property changes the colour of all text inside the selector, `<p>` tags. `font-family` changes how the text looks.
+
++ Next you are going to use the `text-align` property on your `<h1>` tags to horizontally centre your heading. We can use these values for this: `left`, `right` or `center`. Try them out to see what they do!
+
+```css
+h1{
+    text-align: center;
+}
+```
+
+--- challenge ---
+
+## Challenge: Style your heading
+
++ Make your heading YellowGreen with a Brown background and use the Imapct font.
+
+--- hints ---
+
+--- hint ---
+
+To create CSS rules you must have a selector e.g. `h1` and some curly braces `{ }` to put the rules in.
+
+--- /hint ---
+
+--- hint ---
+
+A rule must have a property e.g. `color` followed by a colon `:` and a value e.g. `Blue`.
+A rule must always end with a semi-colon `;` too.
+
+
+--- /hint ---
+
+--- hint ---
+
+Here are some rules for a `<h1>` tag
+
+```css
+  h1{
+    font-family: "Impact", sans-serif;
+    color: YellowGreen;
+    background-color: Brown;
+  }
+```
+
+--- /hint ---
+
+--- /hints ---
+
+--- /challenge ---
+
+You can find more fonts [here](https://www.w3schools.com/cssref/css_websafe_fonts.asp) and find more colours [here](https://www.w3schools.com/colors/colors_names.asp).
+
+Next you will look at adding images to our webpage.

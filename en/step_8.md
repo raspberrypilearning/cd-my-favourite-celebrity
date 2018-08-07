@@ -1,27 +1,58 @@
-## Create links to other websites
+## Challenge: more pages
 
-Next you are going to add a **link** to another website. Your going to add a link to Maddie's Wikipedia page: wikipedia.org/wiki/Maddie_Moate
+--- challenge ---
 
-+ To link to another website you need to use the `<a> </a>` tags. `a` is short for **anchor**. Here is the code for an example link: 
-
-```html
-<a href="https://en.wikipedia.org/wiki/Maddie_Moate" >This is the link to Maddie's Wikipedia page.</a>
-```
-
-+ The `href` attribute should contain the **URL** of the website that you wish to go to. The text between `<a>` and `</a>` is the text that will appear on your webpage as a link. The URL for the page you want to add will be located at the top of your browser in the **address bar**.
-
-![URL in address bar](images/addressBarExample.png)
+Using what you've learnt, create more webpages about members of your favourite band, the cast of your favourite movie/tv show or the players on your favourite sports team.
 
 --- collapse ---
 ---
-title: Some links not working?
+title: How to create a new page on Trinket
 ---
 
-Most websites like Twitter and Facebook don't allow their website to be opened in an `<iframe>` which is what Trinket uses to show you your website. Links like these will work if you download your code and open it in a browser. If you include the attribute `target="_blank"` in the anchor tag, it works in Trinket but it opens your link in a new tab! 
++ Click the plus button to the right of your current pages i.e. index.html and stylesheet.css
 
-```html
-<a href="https://www.twitter.com/" target="_blank">Opens in a new tab</a>
++ Enter a file name eg bandmember1.html or eddiemurphy.html **Remember to include the `.html`!**
+
++ Copy and paste the basic html code often called **boilerplate code**
+
+``` html
+    <html>
+    <head>
+        <title>My Title</title>
+        <link rel="stylesheet" href="stylesheet.css" type="text/css">
+    </head>
+    <body>
+        
+    </body>
+    </html>
 ```
 
 --- /collapse ---
 
+--- collapse ---
+---
+title: How to go between your pages
+---
+
++ To create a link between two of your pages you must use the `<a> </a>` tag
+
++ Put the `attribute` called `href` in the opening tag and set it `=` to the filename of the page you would like to link to. The text between both tags is displayed on your webpage as the link.
+
+``` html
+    <html>
+    <head>
+        <title>Page 1</title>
+        <link rel="stylesheet" href="stylesheet.css" type="text/css">
+    </head>
+    <body>
+        <h1>Welcome to page 1</h1>
+        <a href="page2.html">Go to Page 2</a>
+    </body>
+    </html>
+```
+
+![Local relative link](images/localRelativeLink.png)
+
+--- /collapse ---
+
+--- /challenge ---
