@@ -12,6 +12,8 @@ Twitter also provides an easy way for you to use its services in your webpage. T
 
 + Now you can select customisation options if you would like. Click on `customization options` and change the `How would you like this to look?` setting from `Light` to `Dark` or update the `Width` and `Height`. Change whatever options you would like to and then click `update`.
 
+![Custimization options listed](images/twitterOptions.png)
+
 + When you are done or if you didn't change any settings, click the `Copy Code` button and you should get a message "Copied!" to pop up on screen.
 
 ![Copy message](images/copiedMessage.png)
