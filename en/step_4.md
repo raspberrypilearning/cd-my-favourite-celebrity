@@ -1,76 +1,43 @@
-## Adding images to our webpage
+--- challenge ---
 
-Let's add a picture!
+## Challenge: Style your heading
 
-+ Go to the file named `index.html`. Type the following anywhere between the `<body> </body>` tags: 
++ Make your heading YellowGreen with a Brown background and use the Imapct font.
 
-```html
-    <img src="maddie.jpg" alt="Maddie Moate" width="200px" />
-```
+--- hints ---
 
-Here's what the result should look like:
-    
-![Image code and picture of Maddie Moate](images/imageCodeMaddie.png)
+--- hint ---
 
-Notice that this tag has extra bits of information inside it. They are called **attributes**.
+To create CSS rules you must have a selector e.g. `h1` and some curly braces `{ }` to put the rules in.
 
-+ Find the bit of code that says `width="200px"` and try experimenting with different numbers to see if you can figure out what this attribute does. Don't delete the letters `px`!
+--- /hint ---
 
---- collapse ---
----
-title: How the img tag works
----
+--- hint ---
 
-Notice that the `<img>` tag is different from the other tags you've used so far — there is no closing `</img>` tag. Instead, this tag is **self-closing**: it has `/>` at the end. This is because there is no 'start' and 'end' to an image element like there is for text on the page. 
+A rule must have a property e.g. `color` followed by a colon `:` and a value e.g. `Blue`.
+A rule must always end with a semi-colon `;` too.
 
-The tag contains **attributes** with extra information:
-- The `src` attribute tells the browser what file to use for the picture. 
-- The `alt` attribute is a short description that the browser will show if it cannot display the picture. 'alt' is short for 'alternative'. This text also helps people using a screen reader to know what the picture is.
-- The `width` attribute tells the browser how wide to make the picture. `100px` means one hundred **pixels**, which are the tiny dots that make up what you're seeing on your screen. If you don't include this attribute, the picture will be displayed in its original size.
 
---- /collapse ---
+--- /hint ---
 
-Now that you know the code to put a picture on your website, you probably want to change the picture, right? **If you have a Trinket account** you can follow the instructions below to get your picture on your website. If you don't have an account, you can use the rocketship already available on Trinket or keep the picture of Maddie.
+--- hint ---
 
-+ The first thing you will need is, of course, a picture! You can either use one you've already got on your computer, such as a photograph you took, or you can get one from the internet.
-
-[[[generic-get-picture-from-web]]]
-
-**Note:** not all images you will find on the internet are free for anyone to use. If you download a picture, you should make sure it is one that you are allowed to use. Find out more about this here:
-
-[[[images-permissions-to-use]]]
-
-Once you have a picture, you can **upload** the file to Trinket: 
-
-+ In your Trinket, click on the **image** icon next to the **+** sign. 
-
-![The image icon](images/tktImageIconArrow.png)
-
-This is where you can see the pictures that you are able to use on your website. You should see the picture of Maddie.
-
-- Click the button **Image Library** and then click **Upload New Image**. 
-
-- Click on the button **Click To Select Images**. Find and double-click your image file in the window that opens.
-
-- Click **Done**.
-
-![Image upload area](images/tktUploadImages.png)
-
-Your picture will be uploaded and should be ready to use.
-
-- Go to the file `index.html` and find the `<img>` tag. Change the text `maddie.jpg` so that it exactly matches the name of the image file you've chosen. Note that its name might end in `.png` instead of `.jpg`!
-
-The text you just changed is the attribute called `src`, which is short for source and tells the browser which file to display.
-
-**Note:** the value you type for an attribute must have quotation marks `" "` around it!
-
-+ Next let's add a border on the `img` with **CSS** (so be sure to change back to the `.css` file). The property we need here is `border`. There are plenty of different border options, the full list can be found here: **[Borders](https://www.w3schools.com/css/css_border.asp)**. I will use the shortest one as can be seen below:
+Here are some rules for a `<h1>` tag
 
 ```css
-img{
-    border: 2px solid Black; 
-}
+  h1{
+    font-family: "Impact", sans-serif;
+    color: YellowGreen;
+    background-color: Brown;
+  }
 ```
 
-The first value here `2px` is the width of the border in pixels( the little dots that make up our screens ). The second value describes the border style, in our case it's `solid` but you could have `dotted` or `dashed` too. The final one is the border colour.
+--- /hint ---
 
+--- /hints ---
+
+--- /challenge ---
+
+You can find more fonts [here](https://www.w3schools.com/cssref/css_websafe_fonts.asp) and find more colours [here](https://www.w3schools.com/colors/colors_names.asp).
+
+Next you will look at adding images to our webpage.

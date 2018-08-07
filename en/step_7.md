@@ -1,27 +1,21 @@
-## Create links to other websites
+## Inserting a Twitter profile in our webpage
 
-Next you are going to add a **link** to another website. Your going to add a link to Maddie's Wikipedia page: wikipedia.org/wiki/Maddie_Moate
+Twitter also provides an easy way for you to use its services in your webpage. This example is going to **embed** Maddie's Twitter profile on the webpage, add your favourite celebrity's profile too if they have a Twitter.
 
-+ To link to another website you need to use the `<a> </a>` tags. `a` is short for **anchor**. Here is the code for an example link: 
++ First, find your celebrity on Twitter and again using <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>C</kbd>, copy the `URL` at the top of your browser as seen in the image below
 
-```html
-<a href="https://en.wikipedia.org/wiki/Maddie_Moate" >This is the link to Maddie's Wikipedia page.</a>
-```
+![Address bar highlighted](images/addressBarSelectedText.png)
 
-+ The `href` attribute should contain the **URL** of the website that you wish to go to. The text between `<a>` and `</a>` is the text that will appear on your webpage as a link. The URL for the page you want to add will be located at the top of your browser in the **address bar**.
++ Next, go to [publish.twitter.com](https://publish.twitter.com) and paste the `URL` (with <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>V</kbd> on your keyboard) in the box in the middle of the page and click the arrow beside the box. 
 
-![URL in address bar](images/addressBarExample.png)
++ Select the Embedded Timeline option on the left
 
---- collapse ---
----
-title: Some links not working?
----
++ Now you can select customisation options if you would like. Click on `customization options` and change the `How would you like this to look?` setting from `Light` to `Dark` or update the `Width` and `Height`. Change whatever options you would like to and then click `update`.
 
-Most websites like Twitter and Facebook don't allow their website to be opened in an `<iframe>` which is what Trinket uses to show you your website. Links like these will work if you download your code and open it in a browser. If you include the attribute `target="_blank"` in the anchor tag, it works in Trinket but it opens your link in a new tab! 
++ When you are done or if you didn't change any settings, click the `Copy Code` button and you should get a message "Copied!" to pop up on screen.
 
-```html
-<a href="https://www.twitter.com/" target="_blank">Opens in a new tab</a>
-```
+![Copy message](images/copiedMessage.png)
 
---- /collapse ---
++ Then go back to your website's HTML code, and click in the place where you want to put the Twitter profile and paste the code. Again, don't worry about understanding all the code you just pasted!
 
+![Twitter code on trinket](images/twitterCodeTkt.png)

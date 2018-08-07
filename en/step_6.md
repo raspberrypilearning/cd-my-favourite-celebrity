@@ -1,21 +1,21 @@
-## Inserting a Twitter profile in our webpage
+## Including YouTube videos in our webpage
 
-Twitter also provides an easy way for you to use its services in your webpage. This example is going to **embed** Maddie's Twitter profile on the webpage, add your favourite celebrity's profile too if they have a Twitter.
+YouTube provides an easy way for you to include its videos in your webpage. Adding elements from other online sources is called **embedding**. Let's include a video about your celebrity. This example adds a video from Maddie's YouTube channel but you could add an interview, music video or movie trailer with your favourite celebrity.
 
-+ First, find your celebrity on Twitter and again using <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>C</kbd>, copy the `URL` at the top of your browser as seen in the image below
++ Find a video on YouTube that you want to show on your website. 
 
-![Address bar highlighted](images/addressBarSelectedText.png)
++ Click on the **Share** button below the video, beside the likes. Select the option **Embed**.
 
-+ Next, go to [publish.twitter.com](https://publish.twitter.com) and paste the `URL` (with <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>V</kbd> on your keyboard) in the box in the middle of the page and click the arrow beside the box. 
++ You will see a text box with some code in it. You need to copy the text. First it must be selected. You can select it all by clicking on it and pressing the <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>A</kbd> keys at the same time.
 
-+ Select the Embedded Timeline option on the left
+![Selected Text](images/youtubeSelectedText.png)
 
-+ Now you can select customisation options if you would like. Click on `customization options` and change the `How would you like this to look?` setting from `Light` to `Dark` or update the `Width` and `Height`. Change whatever options you would like to and then click `update`.
++ Press the <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>C</kbd> keys together to copy the text.
 
-+ When you are done or if you didn't change any settings, click the `Copy Code` button and you should get a message "Copied!" to pop up on screen.
++ Then go back to your website's HTML code, and click in the place where you want to put the video, for example below a heading or paragraph. **Paste** the code by pressing <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>V</kbd> on your keyboard at the same time. Don't worry about understanding all the code you just pasted!
 
-![Copy message](images/copiedMessage.png)
+![Pasted code on trinket](images/pastedVideoCode.png)
 
-+ Then go back to your website's HTML code, and click in the place where you want to put the Twitter profile and paste the code. Again, don't worry about understanding all the code you just pasted!
+You should see the video appear on your webpage.
 
-![Twitter code on trinket](images/twitterCodeTkt.png)
++ If you look carefully, you should find `width` and `height` **attributes** in the pasted code. You can change their values to make the video appear bigger or smaller.
