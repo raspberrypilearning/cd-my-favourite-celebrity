@@ -40,4 +40,4 @@ Here are some rules for a `<h1>` tag
 
 You can find more fonts [here](https://www.w3schools.com/cssref/css_websafe_fonts.asp) and find more colours [here](https://www.w3schools.com/colors/colors_names.asp).
 
-Next you will look at adding images to our webpage.
+Next you will look at adding images to your webpage.

@@ -94,6 +94,6 @@ img{
 }
 ```
 
-The first value here `2px` is the width of the border in pixels( the little dots that make up our screens ). The second value describes the border style, in our case it's `solid` but you could have `dotted` or `dashed` too. The final one is the border colour.
+The first value here `2px` is the width of the border in pixels( the little dots that make up our screens ). The second value describes the border style, in this case it's `solid` but you could have `dotted` or `dashed` too. The final one is the border colour.
 
 --- /task ---
