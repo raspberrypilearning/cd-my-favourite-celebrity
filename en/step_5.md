@@ -1,4 +1,4 @@
-## Adding images to our webpage
+## Adding images to your webpage
 
 Let's add a picture!
 

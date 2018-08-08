@@ -1,4 +1,4 @@
-## Inserting a Twitter profile in our webpage
+## Inserting a Twitter profile in your webpage
 
 Twitter also provides an easy way for you to use its services in your webpage. This example is going to **embed** Maddie's Twitter profile on the webpage, add your favourite celebrity's profile too if they have a Twitter.
 
