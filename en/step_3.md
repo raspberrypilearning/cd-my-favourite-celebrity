@@ -6,6 +6,12 @@ The code that describes how a website looks is called CSS.
 
 + Change the value `White` to `LightYellow` and see what happens to your page.
 
+```css
+body{
+  background-color: LightYellow;
+}
+```
+
 ![CSS background-color in code](images/yellowBackground.png "Yellow Background Colour")
 
 --- collapse ---
@@ -33,6 +39,16 @@ Each rule inside the curly braces is made up of:
 --- /collapse ---
 
 + Let's add two new **CSS rules** for the `<p>` tag. One for the text `color` and one for the text `font-family`.
+
+```css
+body{
+  background-color: LightYellow;
+}
+p{
+  font-family: "Helvetica", sans-serif;
+  color: DarkRed;
+}
+```
 
 ![CSS p selector rules in code](images/darkRedTextColour.png "now p selector has rules")
 
