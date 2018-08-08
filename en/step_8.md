@@ -1,16 +1,20 @@
 ## Create links to other websites
 
-Next you are going to add a **link** to another website. Your going to add a link to Maddie's Wikipedia page: wikipedia.org/wiki/Maddie_Moate
+Next you are going to add a **link** to another website. This example will add a link to Maddie's Wikipedia page: wikipedia.org/wiki/Maddie_Moate
 
-+ To link to another website you need to use the `<a> </a>` tags. `a` is short for **anchor**. Here is the code for an example link: 
+--- task ---
+
+To link to another website you need to use the `<a> </a>` tags. `a` is short for **anchor**. Here is the code for an example link: 
 
 ```html
 <a href="https://en.wikipedia.org/wiki/Maddie_Moate" >This is the link to Maddie's Wikipedia page.</a>
 ```
 
-+ The `href` attribute should contain the **URL** of the website that you wish to go to. The text between `<a>` and `</a>` is the text that will appear on your webpage as a link. The URL for the page you want to add will be located at the top of your browser in the **address bar**.
+The `href` attribute should contain the **URL** of the website that you wish to go to. The text between `<a>` and `</a>` is the text that will appear on your webpage as a link. The URL for the page you want to add will be located at the top of your browser in the **address bar**.
 
 ![URL in address bar](images/addressBarExample.png)
+
+--- /task ---
 
 --- collapse ---
 ---
