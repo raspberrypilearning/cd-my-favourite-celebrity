@@ -6,13 +6,6 @@ Learn how to code a webpage about your favourite celebrity!
 
 Build a webpage like the one in the Trinket below.
 
-<div class="trinket">
-  <iframe src="https://trinket.io/embed/html/4222be8f1f?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
-</div>
-
---- collapse ---
-
 ## What you will need
 
 ### Hardware
@@ -23,17 +16,11 @@ Build a webpage like the one in the Trinket below.
 
 + This project can be completed in a web browser using trinket.io
 
---- /collapse ---
-
---- collapse ---
-
 ### What you will learn
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
 + [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
-
---- /collapse ---
 
 ### Additional information for educators
 
