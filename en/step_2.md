@@ -1,6 +1,8 @@
 ## Getting started
 
-+ Go to the [the starter Trinket](https://trinket.io/html/15bfdbad45){:target="_blank"}. Here, you will see a box containing an example website project. On the right-hand side is the website, and on the left-hand side is the code that makes the website.
+--- task ---
+
+Go to the [the starter Trinket](https://trinket.io/html/15bfdbad45){:target="_blank"}. Here, you will see a box containing an example website project. On the right-hand side is the website, and on the left-hand side is the code that makes the website.
 
 ![Web page and code in Trinket](images/htmlStarterTrinket.png)
 
@@ -40,9 +42,17 @@ If you want to create an account on Trinket, follow the steps below. This will a
 
 --- /collapse ---
 
+--- /task ---
+
+--- task ---
+
 + Find the line that says `<p>Hello World</p>` and replace the text between `<p>` and `</p>` to say who your favourite celebrity is. **Don't** remove the `<p>` and `</p>`. These are **paragraph** tags. They are used to define a paragraph of text. You should see your webpage change on the right-hand side. 
 
 ![Hello World in the code](images/helloWorldLine.png "Hello World")
+
+--- /task ---
+
+--- task ---
 
 + Add a new line and this time use `<h1>` and `</h1>` instead of `<p>` and `</p>`. These are **heading** tags. It enlarges the text and makes it bold.
 
@@ -70,6 +80,12 @@ Everything in between the `<body>` and `</body>` tags is your webpage.
   
 --- /collapse ---
 
+--- /task ---
+
+--- task ---
+
 + Change the number in your **heading** tags to see the different sizes available. They can go from `<h1>` to `<h6>`. Remember to change the number in both the opening and closing tags!
+
+--- /task ---
 
 Congratulations! You have built your first webpage. Next you will style your webpage.
