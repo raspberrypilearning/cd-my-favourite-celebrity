@@ -75,3 +75,19 @@ h1{
 ```
 
 --- /task ---
+
+--- task ---
+
+Finally we are going to add margins. The `margin` properties are used to create space around your elements. Your are going to add a margin to the top of your `<p>` tag. The four margin properties are `margin-top`, `margin-right`, `margin-bottom` and `margin-left`.
+
+```css
+p{
+  font-family: "Helvetica", sans-serif;
+  color: DarkRed;
+  margin-top: 20px;
+}
+```
+
+This moves the paragraph down the page by 20px. This will be usefaul later in the project to move elements around!
+
+--- /task ---
