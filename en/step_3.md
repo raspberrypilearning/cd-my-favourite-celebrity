@@ -84,10 +84,12 @@ Finally we are going to add margins. The `margin` properties are used to create 
 p{
   font-family: "Helvetica", sans-serif;
   color: DarkRed;
-  margin-top: 20px;
+  margin-top: 100px;
 }
 ```
 
-This moves the paragraph down the page by 20px. This will be usefaul later in the project to move elements around!
+This moves the paragraph down the page by 100px. You can delete this gap if you don't ike it but this will be usefaul later in the project to move elements like pictures and videos around!
 
 --- /task ---
+
+![Example of website at this stage](images/step3eg.png)

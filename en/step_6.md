@@ -27,3 +27,5 @@ You should see the video appear on your webpage.
 If you look carefully, you should find `width` and `height` **attributes** in the pasted code. You can change their values to make the video appear bigger or smaller.
 
 --- /task ---
+
+![Example of website at this stage](images/step6eg.png)

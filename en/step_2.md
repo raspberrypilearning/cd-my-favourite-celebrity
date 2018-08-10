@@ -2,7 +2,7 @@
 
 --- task ---
 
-Go to the [the starter Trinket](https://trinket.io/html/15bfdbad45){:target="_blank"}. Here, you will see a box containing an example website project. On the right-hand side is the website, and on the left-hand side is the code that makes the website.
+Go to the [the starter Trinket](https://trinket.io/html/15bfdbad45){:target="_blank"}. Here, you will see a box containing an example website project. On the right-hand side is the website, and on the left-hand side is the code that makes the website. **Note:** this project can be completed without an account on trinket.io, however without an account you will not be able to use your own pictures. Please create an account if you wish to use your own pictures. Instructions on how to do this are below.
 
 ![Web page and code in Trinket](images/htmlStarterTrinket.png)
 
@@ -27,8 +27,6 @@ It should say **remixed** after you click it:
 ---
 title: I don't have a Trinket account
 ---
-
-**Note:** this project can be completed without an account on trinket.io, however without an account you will not be able to use your own pictures. Please create an account if you wish to use your own pictures. Instructions on how to do this are below.
 
 You can save your work by using one of the options in the **Share** menu. You will get a link that you can either save somewhere, for example in a document, or send to someone via email.
 **Note:** each time you make a change, you will get a new link.
@@ -91,3 +89,5 @@ Change the number in your **heading** tags to see the different sizes available.
 --- /task ---
 
 Congratulations! You have built your first webpage. Next you will style your webpage.
+
+![Example of website at this stage](images/step2eg.png)

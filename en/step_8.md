@@ -16,6 +16,25 @@ The `href` attribute should contain the **URL** of the website that you wish to 
 
 --- /task ---
 
+--- task ---
+
+Your links will be blue and have a line under them by default. To change this, you use the following CSS:
+
+```css
+a{
+    text-decoration: none;
+    color: Black;
+}
+```
+
+You can easily move your link to a new line too! Just `wrap` it in paragraph tags
+
+```html
+<p><a href="MyLink">My Text</a></p>
+```
+
+--- /task ---
+
 --- collapse ---
 ---
 title: Some links not working?
@@ -29,3 +48,4 @@ Most websites like Twitter and Facebook don't allow their website to be opened i
 
 --- /collapse ---
 
+![Example of website at this stage](images/step8eg.png)

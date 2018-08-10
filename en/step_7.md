@@ -33,3 +33,5 @@ Then go back to your website's HTML code, and click in the place where you want 
 ![Twitter code on trinket](images/twitterCodeTkt.png)
 
 --- /task ---
+
+![Example of website at this stage](images/step7eg.png)
