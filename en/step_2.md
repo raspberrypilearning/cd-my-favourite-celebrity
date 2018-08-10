@@ -28,6 +28,8 @@ It should say **remixed** after you click it:
 title: I don't have a Trinket account
 ---
 
+**Note:** this project can be completed without an account on trinket.io, however without an account you will not be able to use your own pictures. Please create an account if you wish to use your own pictures. Instructions on how to do this are below.
+
 You can save your work by using one of the options in the **Share** menu. You will get a link that you can either save somewhere, for example in a document, or send to someone via email.
 **Note:** each time you make a change, you will get a new link.
 

@@ -2,7 +2,7 @@
 
 ## Challenge: Style your heading
 
-+ Make your heading YellowGreen with a Brown background and use the Imapct font.
++ Make your heading YellowGreen with a Brown background and use the Impact font.
 
 --- hints ---
 
