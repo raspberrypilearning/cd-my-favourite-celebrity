@@ -2,7 +2,7 @@
 
 --- task ---
 
-Go to the [the starter Trinket](https://trinket.io/html/15bfdbad45){:target="_blank"}. Here, you will see a box containing an example website project. On the right-hand side is the website, and on the left-hand side is the code that makes the website. **Note:** this project can be completed without an account on trinket.io, however without an account you will not be able to use your own pictures. Please create an account if you wish to use your own pictures. Instructions on how to do this are below.
+Go to the [the starter Trinket](http://dojo.soy/celebrity){:target="_blank"}. Here, you will see a box containing an example website project. On the right-hand side is the website, and on the left-hand side is the code that makes the website. **Note:** this project can be completed without an account on trinket.io, however without an account you will not be able to use your own pictures. Please create an account if you wish to use your own pictures. Instructions on how to do this are below.
 
 ![Web page and code in Trinket](images/htmlStarterTrinket.png)
 
