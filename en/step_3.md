@@ -88,7 +88,7 @@ p{
 }
 ```
 
-This moves the paragraph down the page by 100 pixels. You can delete this gap if you don't ike it, but knowing how to add margins will be useful later in the project to move elements like pictures and videos around.
+This moves the paragraph down the page by 100 pixels (`100px`). You can delete this gap if you don't ike it, but knowing how to add margins will be useful later in the project to move elements like pictures and videos around.
 
 --- /task ---
 
