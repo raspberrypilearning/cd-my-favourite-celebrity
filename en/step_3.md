@@ -1,4 +1,4 @@
-## Styling your webpage
+## Styling your web page
 
 The language that describes how a website looks is called **CSS**. This stands for 'cascading style sheets'.
 
@@ -88,7 +88,7 @@ p{
 }
 ```
 
-This moves the paragraph down the page by 100 pixels (`100px`). You can delete this gap if you don't ike it, but knowing how to add margins will be useful later in the project to move elements like pictures and videos around.
+This moves the paragraph down the page by 100 pixels (`100px`). You can delete this gap if you don't ike it, but knowing how to add margins will be useful later in the project to move other elements, such as pictures and videos.
 
 --- /task ---
 
