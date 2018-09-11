@@ -1,12 +1,12 @@
 ## Styling your webpage
 
-The code that describes how a website looks is called CSS.
+The language that describes how a website looks is called **CSS**. This stands for 'cascading style sheets'.
 
 --- task ---
 
-Look at the top of the code panel on Trinket. Click on the file called `stylesheet.css`.
+Look at the top of the code panel in the trinket. Click on the tab that says `stylesheet.css`.
 
-Change the value `White` to `LightYellow` and see what happens to your page.
+Change the value `White` to `LightYellow`, and see what happens to your web page.
 
 ```css
 body{
@@ -29,22 +29,22 @@ If you look at the top of the `index.html` file, you will see the following line
   <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 ```
 
-The above line tells the browser to look for a special file named `stylesheet.css`. This special file is called a **style sheet**. You can recognise a style sheet file by the `.css` in its name. 
+This line of code tells the browser to look for a special file named `stylesheet.css`. This special file is called a **style sheet**. You can recognise a style sheet file by the `.css` in its name. 
   
-A style sheet contains **rules** for what each element on your webpage should look like.
+A style sheet contains **rules** for what the HTML elements on your web page should look like.
 
-The curly braces `{ }` and the code in between them are a set of **CSS rules**. The word `body` means that the rules are for all the `<body>` elements on your website. We call the bit in front of the curly braces a **selector**. So in this case, it is the selector for the body elements.
+The curly braces `{ }` and the code in between them are a set of **CSS rules**. The word `body` means that the rules are for all the `<body>` elements on your website. We call the bit in front of the curly braces a **selector**. So in this case, it is the selector for the `<body>` elements.
 
 Each rule inside the curly braces is made up of:
   - A **property** on the left, followed by a colon symbol `:`
-  - A **value** for the property on the right-hand side after the colon
-  - A semi-colon symbol `;` at the end
+  - After the colon, on the right-hand side, a **value** for the property
+  - A semicolon symbol `;` at the end
    
 --- /collapse ---
 
 --- task ---
 
-Let's add two new **CSS rules** for the `<p>` tag. One for the text `color` and one for the text `font-family`.
+Let's add two new **CSS rules** for the `<p>` tag: one for the text's `color`, and one for the text's `font-family`.
 
 ```css
 body{
@@ -60,13 +60,13 @@ p{
 
 Notice the changes?
 
-The `color` property changes the colour of all text inside the selector, `<p>` tags. `font-family` changes how the text looks.
+The `color` property changes the colour of all text inside the selector, the `<p>` tags. `font-family` changes how the letters of the text look.
 
 --- /task ---
 
 --- task ---
 
-Next you are going to use the `text-align` property on your `<h1>` tags to horizontally centre your heading. We can use these values for this: `left`, `right` or `center`. Try them out to see what they do!
+Next, you're going to use the `text-align` property on your `<h1>` tags to horizontally centre your heading. We can use the following values for this: `left`, `right`, or `center`. Try them out to see what they do!
 
 ```css
 h1{
@@ -78,7 +78,7 @@ h1{
 
 --- task ---
 
-Finally we are going to add margins. The `margin` properties are used to create space around your elements. Your are going to add a margin to the top of your `<p>` tag. The four margin properties are `margin-top`, `margin-right`, `margin-bottom` and `margin-left`.
+Finally, you're going to add margins. The `margin` properties are used to create space around your elements. You are going to add a margin to the top of your `<p>` tag. The four margin properties are `margin-top`, `margin-right`, `margin-bottom`, and `margin-left`.
 
 ```css
 p{
@@ -88,7 +88,7 @@ p{
 }
 ```
 
-This moves the paragraph down the page by 100px. You can delete this gap if you don't ike it but this will be usefaul later in the project to move elements like pictures and videos around!
+This moves the paragraph down the page by 100 pixels. You can delete this gap if you don't ike it, but knowing how to add margins will be useful later in the project to move elements like pictures and videos around.
 
 --- /task ---
 
