@@ -1,28 +1,27 @@
 --- challenge ---
 
-## Challenge: Style your heading
+## Challenge: style your heading
 
-+ Make your heading YellowGreen with a Brown background and use the Impact font.
++ Make your heading `YellowGreen` with a `Brown` background and use the `Impact` font.
 
 --- hints ---
 
 --- hint ---
 
-To create CSS rules you must have a selector e.g. `h1` and some curly braces `{ }` to put the rules in.
+To create CSS rules, you must have a selector, e.g. `h1`, and some curly braces `{ }` to put the rules in.
 
 --- /hint ---
 
 --- hint ---
 
-A rule must have a property e.g. `color` followed by a colon `:` and a value e.g. `Blue`.
-A rule must always end with a semi-colon `;` too.
-
++ A rule must have a property, e.g. `color`, followed by a colon `:` and a value, e.g. `Blue`
++ A rule must always end with a semi-colon `;`
 
 --- /hint ---
 
 --- hint ---
 
-Here are some rules for a `<h1>` tag
+Here are some rules for a `<h1>` tag:
 
 ```css
   h1{
@@ -38,8 +37,8 @@ Here are some rules for a `<h1>` tag
 
 --- /challenge ---
 
-You can find more fonts [here](https://www.w3schools.com/cssref/css_websafe_fonts.asp) and find more colours [here](https://www.w3schools.com/colors/colors_names.asp).
+You can find more fonts [here](https://www.w3schools.com/cssref/css_websafe_fonts.asp) and more colours [here](https://www.w3schools.com/colors/colors_names.asp).
 
-Next you will look at adding images to your webpage.
+Next, you'll learn about adding images to your web page.
 
 ![Example of website at this stage](images/step4eg.png)
