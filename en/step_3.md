@@ -9,7 +9,7 @@ Look at the top of the code panel in the trinket. Click on the tab that says `st
 Change the value `White` to `LightYellow`, and see what happens to your web page.
 
 ```css
-body{
+body {
   background-color: LightYellow;
 }
 ```
@@ -47,10 +47,10 @@ Each rule inside the curly braces is made up of:
 Let's add two new **CSS rules** for the `<p>` tag: one for the text's `color`, and one for the text's `font-family`.
 
 ```css
-body{
+body {
   background-color: LightYellow;
 }
-p{
+p {
   font-family: "Helvetica", sans-serif;
   color: DarkRed;
 }
@@ -69,7 +69,7 @@ The `color` property changes the colour of all text inside the selector, the `<p
 Next, you're going to use the `text-align` property on your `<h1>` tags to horizontally centre your heading. We can use the following values for this: `left`, `right`, or `center`. Try them out to see what they do!
 
 ```css
-h1{
+h1 {
     text-align: center;
 }
 ```
@@ -81,7 +81,7 @@ h1{
 Finally, you're going to add margins. The `margin` properties are used to create space around your elements. You are going to add a margin to the top of your `<p>` tag. The four margin properties are `margin-top`, `margin-right`, `margin-bottom`, and `margin-left`.
 
 ```css
-p{
+p {
   font-family: "Helvetica", sans-serif;
   color: DarkRed;
   margin-top: 100px;
