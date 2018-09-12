@@ -1,10 +1,10 @@
-## Adding images to your webpage
+## Adding photos
 
-Let's add a picture!
+Let's add a picture to your web page!
 
 --- task ---
 
-Go to the file named `index.html`. Type the following anywhere between the `<body> </body>` tags: 
+Click on the tab named `index.html` to go to your HTML code. Type the following anywhere between the `<body> </body>` tags: 
 
 ```html
     <img src="maddie.jpg" alt="Maddie Moate" width="200px" />
@@ -18,21 +18,21 @@ Here's what the result should look like:
 
 --- task ---
 
-Notice that this tag has extra bits of information inside it. They are called **attributes**.
+Notice that the`<img>` tag has extra bits of information inside it. They are called **attributes**.
 
-Find the bit of code that says `width="200px"` and try experimenting with different numbers to see if you can figure out what this attribute does. Don't delete the letters `px`!
+Find the bit of code that says `width="200px"` and try experimenting with different numbers to see if you can figure out what this attribute does. Don't delete the letters `px` though!
 
 --- collapse ---
 ---
 title: How the img tag works
 ---
 
-Notice that the `<img>` tag is different from the other tags you've used so far — there is no closing `</img>` tag. Instead, this tag is **self-closing**: it has `/>` at the end. This is because there is no 'start' and 'end' to an image element like there is for text on the page. 
+You might have noticed that the `<img>` tag is different from the other tags you've used so far: there is no closing `</img>` tag! Instead, this tag is **self-closing**: it has a `/>` at the end. This is because there is no 'start' and 'end' to an image element like there is for text. 
 
 The tag contains **attributes** with extra information:
 - The `src` attribute tells the browser what file to use for the picture. 
-- The `alt` attribute is a short description that the browser will show if it cannot display the picture. 'alt' is short for 'alternative'. This text also helps people using a screen reader to know what the picture is.
-- The `width` attribute tells the browser how wide to make the picture. `100px` means one hundred **pixels**, which are the tiny dots that make up what you're seeing on your screen. If you don't include this attribute, the picture will be displayed in its original size.
+- The `alt` attribute is a short description that the browser will show if it cannot display the picture. 'alt' is short for 'alternative'. This text also helps people with visual impairments who use a screen reader to know what's in the picture you're showing them.
+- The `width` attribute tells the browser how wide to make the picture. `100px` means one hundred pixels. If you don't include this attribute, the picture will be displayed in its original size.
 
 --- /collapse ---
 
