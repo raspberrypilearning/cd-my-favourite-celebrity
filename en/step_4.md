@@ -24,7 +24,7 @@ To create CSS rules, you must have a selector, e.g. `h1`, and some curly braces 
 Here are some rules for a `<h1>` tag:
 
 ```css
-  h1{
+  h1 {
     font-family: "Impact", sans-serif;
     color: YellowGreen;
     background-color: Brown;
