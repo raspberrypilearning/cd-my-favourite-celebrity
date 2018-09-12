@@ -1,4 +1,4 @@
-## Display a Twitter profile on your page
+## Display a Twitter profile
 
 Twitter also provides an easy way for you to use its services on your web page. This example is going to embed Maddie's Twitter profile on the web page, add your favourite celebrity's profile too if they have a Twitter.
 
