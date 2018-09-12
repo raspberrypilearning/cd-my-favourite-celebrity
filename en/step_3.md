@@ -1,4 +1,4 @@
-## Styling your web page
+## Add style to your web page
 
 The language that describes how a website looks is called **CSS**. This stands for 'cascading style sheets'.
 
