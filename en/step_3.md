@@ -88,7 +88,7 @@ p{
 }
 ```
 
-This moves the paragraph down the page by 100 pixels (`100px`). You can delete this gap if you don't ike it, but knowing how to add margins will be useful later in the project to move other elements, such as pictures and videos.
+This moves the paragraph down the page `100px`. `100px` means one hundred **pixels**, which are the tiny dots that make up what you're seeing on your screen. You can delete this gap if you don't like it, but knowing how to add margins to your HTML elements will be useful later in the project to move other things you'll add to your web page, such as pictures and videos.
 
 --- /task ---
 
