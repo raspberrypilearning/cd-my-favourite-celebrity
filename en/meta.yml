@@ -1,6 +1,6 @@
 title: My favourite celebrity
 hero_image: images/banner.png
-description: Create your first website about your favourite celebrity.
+description: Create your first website about your favourite celebrity!
 version: 4
 listed: false
 copyedit: false
@@ -8,13 +8,13 @@ ingredient: false
 last_tested: "2018-08-02"
 steps:
   - title: Introduction
-  - title: Getting started with your first webpage
-  - title: Styling your webpage
+  - title: Get started
+  - title: Add style to your web page
   - title: "Challenge: style your heading"
     challenge: true
-  - title: Adding images to your webpage
-  - title: Including YouTube videos in your webpage
-  - title: Inserting Twitter profiles in your webpage
+  - title: Show photos on your page
+  - title: Add YouTube videos to your page
+  - title: Display a Twitter profile
   - title: Create links to other websites
   - title: "Challenge: more pages"
     challenge: true
