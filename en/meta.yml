@@ -3,7 +3,7 @@ hero_image: images/banner.png
 description: Create your first website about your favourite celebrity!
 version: 4
 listed: false
-copyedit: false
+copyedit: true
 ingredient: false
 last_tested: "2018-08-02"
 steps:
