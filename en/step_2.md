@@ -2,11 +2,11 @@
 
 --- task ---
 
-Go to the [starter trinket here](http://dojo.soy/celebrity){:target="_blank"}. You'll see a box containing an example website project. On the right-hand side is the website, and on the left-hand side is the code that makes the website. **Note:** you can complete this project without an account on trinket.io, but without an account you will not be able to use your own pictures. Please create an account if you wish to use your own pictures. Instructions on how to do this are below.
+**Note:** you can complete this project without an account on trinket.io, but without an account you will not be able to use your own pictures. Please create an account if you wish to use your own pictures. Instructions on how to do this are below. 
+
+Go to the [starter trinket here](http://dojo.soy/celebrity){:target="_blank"}. You'll see a box containing an example website project. On the right-hand side is the website, and on the left-hand side is the code that makes the website.
 
 ![Web page and code in Trinket](images/htmlStarterTrinket.png)
-
-<!--- starter trinket needs dojo.soy link? -->
 
 --- collapse ---
 ---
