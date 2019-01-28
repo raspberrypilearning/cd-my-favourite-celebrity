@@ -1,7 +1,10 @@
 title: My favourite celebrity
 hero_image: images/banner.png
 description: Create your first website about your favourite celebrity!
-version: 4
+duration: 2
+technologies: html-css-javascript
+software: html-css-javascript
+version: 4.0.1
 listed: true
 copyedit: true
 ingredient: false
