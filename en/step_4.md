@@ -37,7 +37,7 @@ Here are some rules for a `<h1>` tag:
 
 --- /challenge ---
 
-You can find more fonts [here](https://www.w3schools.com/cssref/css_websafe_fonts.asp) and more colours [here](https://www.w3schools.com/colors/colors_names.asp).
+You can find more fonts [here](https://www.w3schools.com/cssref/css_websafe_fonts.asp){:target="_blank"} and more colours [here](https://www.w3schools.com/colors/colors_names.asp){:target="_blank"}.
 
 Next, you'll learn about adding images to your web page.
 

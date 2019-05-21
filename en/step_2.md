@@ -34,7 +34,7 @@ You can save your work by using one of the options in the **Share** menu. You wi
 
 If you want to create an account on Trinket, follow the steps below. This will allow you to access your work easily from any computer, and to **remix** projects somebody else has shared with you. Remixing means you save a copy of a project to your account so you can make your own changes to it.
 
-- Go to [the Trinket website](http://dojo.soy/trinket) and click **Sign Up For Your Free Account**. You will need an email address to sign up. 
+- Go to [the Trinket website](http://dojo.soy/trinket){:target="_blank"} and click **Sign Up For Your Free Account**. You will need an email address to sign up. 
 
 - Enter your email address and choose a password, or ask somebody to do this for you.
 

@@ -14,7 +14,7 @@ First, find your favourite celebrity on Twitter, and copy the web address that's
 
 --- task ---
 
-Next, go to [publish.twitter.com](https://publish.twitter.com), paste the URL in the box in the middle of the page, and click the arrow beside the box. 
+Next, go to [publish.twitter.com](https://publish.twitter.com){:target="_blank"}, paste the URL in the box in the middle of the page, and click the arrow beside the box. 
 
 Then select the **Embedded Timeline** option on the left.
 

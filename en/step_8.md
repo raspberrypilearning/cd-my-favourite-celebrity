@@ -1,6 +1,6 @@
 ## Create links to other websites
 
-Now you're going to add a **link** to another website to your page. As my example, I will add a link to Maddie's Wikipedia page: [wikipedia.org/wiki/Maddie_Moate](https://en.wikipedia.org/wiki/Maddie_Moate)
+Now you're going to add a **link** to another website to your page. As my example, I will add a link to Maddie's Wikipedia page: [wikipedia.org/wiki/Maddie_Moate](https://en.wikipedia.org/wiki/Maddie_Moate){:target="_blank"}
 
 --- task ---
 
