@@ -12,7 +12,6 @@ Build a web page like the one in the trinket below.
 </div>
 
 --- collapse ---
-
 ---
 title: What you will need
 ---
@@ -28,7 +27,6 @@ title: What you will need
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: What you will learn
 ---
