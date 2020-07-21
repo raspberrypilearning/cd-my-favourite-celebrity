@@ -1,7 +1,7 @@
 ---
-title: My favourite celebrity
+title: मेरी पसंदीदा हस्ती
 hero_image: images/banner.png
-description: Create your first website about your favourite celebrity!
+description: अपने पसंदीदा हस्ती के बारे में अपनी पहली वेबसाइट बनाएं!
 duration: 2
 technologies: html-css-javascript
 software: html-css-javascript
@@ -12,22 +12,22 @@ ingredient: false
 last_tested: "2019-5-21"
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Get started
+    title: शुरू करें
   - 
-    title: Add style to your web page
+    title: अपने वेब पेज पर स्टाइल (style) जोड़ें
   - 
-    title: "Challenge: style your heading"
+    title: "चुनौती: अपनी हेडिंग को स्टाइल (style) करें"
     challenge: true
   - 
-    title: Show photos on your page
+    title: अपने पेज पर फ़ोटो दिखाएं
   - 
-    title: Add YouTube videos to your page
+    title: अपने पेज पर YouTube वीडियो जोड़ें
   - 
-    title: Display a Twitter profile
+    title: एक Twitter प्रोफ़ाइल प्रदर्शित करें
   - 
-    title: Create links to other websites
+    title: अन्य वेबसाइटों के लिंक बनाएं
   - 
-    title: "Challenge: more pages"
+    title: "चुनौती: और पेज"
     challenge: true
