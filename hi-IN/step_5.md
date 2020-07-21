@@ -1,52 +1,52 @@
-## Show photos on your page
+## अपने पेज पर फ़ोटो दिखाएं
 
-Let's add a picture to your web page!
+आइए अपने वेब पेज पर एक तस्वीर जोड़ें!
 
 --- task ---
 
-Click on the tab named `index.html` to go to your HTML code. Type the following anywhere between the `<body> </body>` tags:
+अपने HTML कोड पर जाने के लिए ` index.html` नाम के टैब पर क्लिक करें । निम्नलिखित वाक्य `<body> </body>` टैग के बीच कहीं भी टाइप करें।
 
 ```html
     <img src="maddie.jpg" alt="Maddie Moate" width="200px" />
 ```
 
-Here's what the result should look like:
+परिणाम ऐसा दिखना चाहिए:
 
-![Image code and picture of Maddie Moate](images/imageCodeMaddie.png)
+![तस्वीर का कोड और Maddie Moate का चित्र](images/imageCodeMaddie.png)
 
 --- /task ---
 
 --- task ---
 
-Notice that the`<img>` tag has extra bits of information inside it. They are called **attributes**.
+ध्यान दें कि `<img>` टैग के अंदर अतिरिक्त जानकारी है। उन्हें ** ऐट्रिब्यूट्स (attributes)** कहा जाता है ।
 
-Find the bit of code that says `width="200px"` and try experimenting with different numbers to see if you can figure out what this attribute does. Don't delete the letters `px` though! 'px' stands for 'pixel'.
+कोड में `width="200px"` ढूंढें और विभिन्न संख्याओं के साथ प्रयोग करके देखें ताकि आप यह पता लगा सकते हैं कि यह ऐट्रिब्यूट क्या करता है। हालांकि ` px` अक्षर न हटाएं! 'px' का अर्थ 'पिक्सेल (pixel)' है।
 
 --- collapse ---
 ---
-title: How the img tag works
+title: img टैग कैसे काम करता है
 ---
 
-You might have noticed that the `<img>` tag is different from the other tags you've used so far: there is no closing `</img>` tag! Instead, this tag is **self-closing**: it has a `/>` at the end. This is because there is no 'start' and 'end' to an image element like there is for text.
+आपने देखा होगा कि `<img>` टैग आपके द्वारा अब तक उपयोग किए गए अन्य टैग से अलग है - इसमें कोई बंद करने वाला ` </img>` टैग नहीं है। इसके बजाय, यह टैग ** स्व-समापन ** है: इसके अंत में ` />` है। इसका कारण यह है कि छवि एलीमेंट्स (elements) का कोई 'प्रारंभ' और 'अंत' नहीं है, जैसे टेक्स्ट (text) के लिए होता है।
 
-The tag contains **attributes** with extra information:
-- The `src` attribute tells the browser what file to use for the picture.
-- The `alt` attribute is a short description that the browser will show if it cannot display the picture. 'alt' is short for 'alternative'. This text also helps people with visual impairments who use a screen reader to know what's in the picture you're showing them.
-- The `width` attribute tells the browser how wide to make the picture. `100px` means one hundred pixels. If you don't include this attribute, the picture will be displayed in its original size.
+टैग के ** ऐट्रिब्यूट्स** में अतिरिक्त जानकारी है:
+- ` src` ऐट्रिब्यूट ब्राउज़र को बताती है कि चित्र के लिए किस फ़ाइल का उपयोग करना है।
+- `alt` ऐट्रिब्यूट एक छोटा विवरण है जो ब्राउज़र पर दिखेगा अगर वह चित्र प्रदर्शित नहीं हो पाया। 'ऑल्ट (alt)' का पूर्ण रूप 'अल्टरनेटिव' है जिसका मतलब विकल्प होता है। यह पाठ दृश्य हानि वाले लोगों की भी मदद करता है जो स्क्रीन रीडर का उपयोग करके यह जानते हैं कि आप उन्हें किस चित्र में क्या दिखा रहे हैं।
+- ` width `ऐट्रिब्यूट ब्राउज़र को बताती है कि चित्र को कितना चौड़ा बनाना है। ` 100px ` का मतलब एक सौ पिक्सेल (pixels) है। यदि आप इस ऐट्रिब्यूट को शामिल नहीं करते हैं, तो चित्र को उसके मूल आकार में प्रदर्शित किया जाएगा।
 
 --- /collapse ---
 
 --- /task ---
 
-Now that you know the code to put a picture on your website, you probably want to change the picture, right? **If you have a Trinket account**, you can follow the instructions below to get your picture on your website. If you don't have an account, you can use the rocketship we've added to the starter trinket for you, or keep the picture of Maddie.
+अब जब आप अपनी वेबसाइट पर एक तस्वीर डालने के लिए कोड जानते हैं, तो आप शायद तस्वीर बदलना चाहते हैं, है ना? ** यदि आपके पास एक Trinket खाता है **, तो आप अपनी वेबसाइट पर अपनी तस्वीर पाने के लिए नीचे दिए गए निर्देशों का पालन कर सकते हैं। यदि आपके पास कोई खाता नहीं है, तो आप स्टार्टर Trinket में हमारे द्वारा जोड़े गए रॉकेटशिप (rocketship) का उपयोग कर सकते हैं, या मैडी (Maddie) की तस्वीर रख सकते हैं।
 
 --- task ---
 
-The first thing you will need is, of course, a picture! You can either use one you've already got on your computer, such as a photograph you took, or you can get one from the internet.
+निश्चित रूप से पहली चीज जो आपको चाहिए होगी वो है, एक तस्वीर! आप अपने कंप्यूटर पर पहले से मौजूद एक तस्वीर का उपयोग कर सकते हैं, जैसे कि आपके द्वारा लिया गया फोटोग्राफ, या आप एक तस्वीर इंटरनेट से प्राप्त कर सकते हैं।
 
 [[[generic-get-picture-from-web]]]
 
-**Note:** not all images you will find on the internet are free for anyone to use. If you download a picture, you should make sure it is one that you're allowed to use. Find out more about this here:
+** ध्यान दें:** सभी तसवीरें जो इंटरनेट पर मिलती हैं वो सब के उपयोग के लिए अनुमति नहीं है। यदि आप कोई चित्र डाउनलोड करते हैं, तो आपको यह सुनिश्चित करना चाहिए की उसे आपको उपयोग करने की अनुमति है। इसके बारे में यहाँ और अधिक जानकारी प्राप्त करें:
 
 [[[images-permissions-to-use]]]
 
@@ -54,39 +54,39 @@ The first thing you will need is, of course, a picture! You can either use one y
 
 --- task ---
 
-Once you have a picture, you can **upload** the file to Trinket.
+जब आपके पास एक चित्र हो, तो आप Trinket पर फ़ाइल ** अपलोड ** कर सकते हैं।
 
-In your trinket, click on the **image** icon next to the **+** sign.
+अपने trinket में,** + **  के बगल में ** image ** चिह्न पर क्लिक करें।
 
-![The image icon](images/tktImageIconArrow.png)
+![आपका चित्र आइकन](images/tktImageIconArrow.png)
 
-This is where you can see the pictures that you can use on your web page at the moment. You should see the picture of Maddie.
+यह वह जगह है जहाँ आप उन तस्वीरों को देख सकते हैं जिनका उपयोग आप अपने वेब पेज पर कर सकते हैं। आपको मैडी (Maddie) की तस्वीर दिखनी चाहिए।
 
-- Click the button **Image Library** and then click **Upload New Image**.
+- **Image Library** बटन पर क्लिक करें और फिर **Upload New Image** पर क्लिक करें।
 
-- Click on the button **Click To Select Images**. Find and double-click your image file in the window that opens.
+- **Click To Select Images** बटन पर क्लिक करें । खुलने वाली विंडो में अपनी छवि फाइल ढूंढें और डबल क्लिक करें।
 
-- Click **Done**.
+- ** Done** बटन पर क्लिक करें।
 
-![Image upload area](images/tktUploadImages.png)
+![चित्र अपलोड क्षेत्र (Area)](images/tktUploadImages.png)
 
-Your picture will be uploaded and should then be ready to use.
-
---- /task ---
-
---- task ---
-
-Go to the file `index.html` and find the `<img>` tag. Change the text `maddie.jpg` so that it exactly matches the name of the image file you've chosen. Note that its name might end with a different ending instead of  `.jpg`! This ending is the **file extension** and shows what type of image file your picture is stored as on the computer. Other common extensions for images include `.png`, `.gif` and `.tiff`, and there are more.
-
-The text you just changed is the attribute called `src`, which is short for 'source' and tells the browser which file to display.
-
-**Note:** the value you type in for an attribute must have quotation marks `" "` around it!
+अब आपकी तस्वीर अपलोड की जाएगी और उपयोग करने के लिए तैयार हो जाएगी।
 
 --- /task ---
 
 --- task ---
 
-Next let's add a border on the `img` with CSS code — be sure to switch to the `.css` file. The property we need here is `border`. There are plenty of different border options, and you can find the full list here: **[Borders](https://www.w3schools.com/css/css_border.asp)**. I will use the shortest one as an example:
+` index.html` फ़ाइल में जाएँ और `<img>` टैग ढूंढें। ` maddie.jpg ` को बदलें ताकि यह आपके द्वारा चुनी गई छवि फाइल के नाम से पूरी तरह मेल खाता हो। ध्यान दें कि इसका नाम `.jpg ` के बजाय किसी भिन्न समाप्ति के साथ समाप्त हो सकता है! यह समाप्ति ** file extension ** है और दिखाता है कि आपकी तस्वीर किस प्रकार की फ़ाइल में कंप्यूटर पर संग्रहीत है। छवियों के लिए अन्य समान एक्सटेंशन (extension) में `.png `, `.gif ` और `.tiff `, और अधिक शामिल हैं।
+
+आपके द्वारा अभी-अभी बदला गया टेक्स्ट ` src` नामक एट्रिब्यूट है, सोर्स (source) का संक्षिप्त रूप, जो ब्राउज़र को बताता है कि किस फ़ाइल को प्रदर्शित करना है।
+
+** ध्यान दें: ** किसी एट्रिब्यूट के लिए आपके द्वारा टाइप की गई वैल्यू (value) उद्धरण चिह्न ` " " ` के अंदर होनी चाहिए!
+
+--- /task ---
+
+--- task ---
+
+अब चलिए ` img ` पर CSS कोड के साथ एक बॉर्डर जोड़ते हैं - `.css ` फाइल पर स्विच करना सुनिश्चित करें । हमें यहां जो प्रॉपर्टी चाहिए वह है ` border` । यहां विभिन्न सीमा विकल्पों में से बहुत सारे हैं, और आप यहां पूरी सूची पा सकते हैं: **[ Borders ](https://www.w3schools.com/css/css_border.asp)** । हम एक उदाहरण के रूप में सबसे छोटे का उपयोग करेंगे:
 
 ```css
 img{
@@ -94,10 +94,10 @@ img{
 }
 ```
 
-The first value here `2px` is the width of the border in pixels (the little dots that make up computer screens, remember). The second value describes the border style; in this case it's `solid`, but you could have `dotted` or `dashed` too. The final one is the border colour.
+यहां पहली वैल्यू (value) ` 2px `, पिक्सेल(छोटे डॉट्स जो कंप्यूटर स्क्रीन बनाते हैं, याद आया) में border की चौड़ाई है । दूसरी वैल्यू (value) बॉर्डर स्टाइल का वर्णन करती है; इस मामले में यह ` solid ` है, लेकिन आप ` dotted ` या ` dashed ` भी बना सकते हैं । अंतिम वाला बॉर्डर का रंग है।
 
-**Note:** you can use the `margin` property from earlier to position your image!
+** ध्यान दें: ** अब आप ` मार्जिन `प्रॉपर्टी का उपयोग कर सकते हैं, अपनी छवि की जगह बदलने के लिए!
 
 --- /task ---
 
-![Example of website at this stage](images/step5eg.png)
+![इस स्तर पर वेबसाइट का उदाहरण](images/step5eg.png)
