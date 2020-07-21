@@ -1,10 +1,10 @@
-## Introduction
+## परिचय
 
-Learn how to code a web page about your favourite celebrity!
+अपने पसंदीदा हस्ती के बारे में एक वेब पेज कोड करना सीखें!
 
-### What you will make
+### आप क्या बनायेंगे
 
-Build a web page like the one in the trinket below.
+नीचे दिए गए trinket में बने वेब पेज की तरह एक वेब पेज बनाएं।
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/58c6a6b896?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -13,36 +13,36 @@ Build a web page like the one in the trinket below.
 
 --- collapse ---
 ---
-title: What you will need
+title: आपको किन चीजों की आवश्यकता होगी
 ---
 
-### Hardware
+### हार्डवेयर
 
-+ A computer capable of running a modern web browser
++ आधुनिक वेब ब्राउज़र चलाने में सक्षम कंप्यूटर
 
-### Software
+### सॉफ्टवेयर
 
-+ This project can be completed in a web browser using trinket.io
++ यह प्रोजेक्ट trinket.io का उपयोग करके वेब ब्राउज़र में पूरा किया जा सकता है
 
---- /collapse ---
+--- /collapse --
 
 --- collapse ---
 ---
-title: What you will learn
+title: आप क्या सीखेंगे
 ---
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
+यह प्रोजैक्ट [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"} के निम्नलिखित तत्वों को सम्मिलित करता है:
 
-+ [Use basic programming constructs to create simple programs](https://www.raspberrypi.org/curriculum/programming/creator){:target="_blank"}
++ [सरल प्रोग्राम बनाने के लिए बुनियादी प्रोग्रामिंग संरचनाओं का उपयोग करें](https://www.raspberrypi.org/curriculum/programming/creator) {:target="_blank"}
 
---- /collapse ---
+--- /collapse --
 
 --- no-print ---
 
-### Additional information for educators
+### शिक्षकों के लिए अधिक जानकारी
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/cd-my-favourite-celebrity/print){:target="_blank"}.
+अगर आपको इस प्रोजेक्टप्रिंटर अनुकूल वर्ज़न को प्रिंट करने की आवश्यकता है, तो कृपया [printer-friendly version](https://projects.raspberrypi.org/en/projects/cd-my-favourite-celebrity/print){:target="_blank"} का उपयोग करें।
 
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+इस प्रोजेक्ट के लिए GitHub रिपॉजिटरी का उपयोग करने के लिए फुटर में दिए लिंक का उपयोग करें, जिसमें 'en/resources' फोल्डर में सभी संसाधन (तैयार प्रोजेक्ट के उदाहरण सहित) हैं।
 
 --- /no-print ---
