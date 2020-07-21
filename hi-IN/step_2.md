@@ -1,46 +1,46 @@
-## Get started
+## शुरू करें
 
-**Note:** you can complete this project without an account on trinket.io, but without an account you will not be able to use your own pictures. Please create an account if you wish to use your own pictures. Instructions on how to do this are below.
+** ध्यान दें: ** आप trinket.io पर एक खाते के बिना इस प्रोजैक्ट को पूरा कर सकते हैं, लेकिन एक खाते के बिना आप अपनी खुद की तस्वीरों का उपयोग करने में सक्षम नहीं होंगे। यदि आप अपनी स्वयं की तस्वीरों का उपयोग करना चाहते हैं तो कृपया एक खाता बनाएँ। ऐसा करने के निर्देश नीचे दिए गए हैं।
 
 --- task ---
 
-Go to the [starter trinket here](http://dojo.soy/celebrity){:target="_blank"}. You'll see a box containing an example website project. On the right-hand side is the website, and on the left-hand side is the code that makes the website.
+[स्टार्टर ट्रिंकेट (starter trinket) ](http://dojo.soy/celebrity) {:target="_blank"} को खोलें | आपको एक बॉक्स दिखाई देगा जिसमें एक उदाहरण वेबसाइट प्रोजैक्ट होगी। वहाँ दाईं ओर वेबसाइट है, और बाईं ओर वह कोड है जो वेबसाइट बनाता है।
 
-![Web page and code in Trinket](images/htmlStarterTrinket.png)
+![Trinket में वेब पेज और कोड है](images/htmlStarterTrinket.png)
 
 --- collapse ---
 ---
-title: I have a Trinket account
+title: मेरे पास Trinket अकाउन्ट है
 ---
 
-- Click the **Remix** button at the top right of the project. If you are not signed in, you will be prompted to do so. Once you've signed in, you'll need to click **Remix** again. Clicking this button creates a copy of the project for you to work with.
+- प्रोजेक्ट के शीर्ष दाईं ओर बने**Remix ** बटन पर क्लिक करें । यदि आपने साइन इन नहीं किया हुआ है, तो आपको ऐसा करने के लिए कहा जाएगा। साइन इन करने के बाद, आपको ** Remix** बटन पर दुबारा क्लिक करना होगा। इस बटन पर क्लिक करने से प्रोजेक्ट की एक कॉपी बन जाती है जिस पर आप काम कर सकते हैं।
 
-![Remix button](images/tktRemixButtonArrow.png)
+![Remix बटन](images/tktRemixButtonArrow.png)
 
-The button should say **remixed** after you click it:
+क्लिक करने के बाद बटन पर **emixed** लिखा होना चाहिए:
 
-![Button now says "remixed"](images/tktRemixedSmall.png)
+![बटन में अब "remixed" लिखा होगा](images/tktRemixedSmall.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: I don't have a Trinket account
+title: मेरे पास Trinket खाता नहीं है
 ---
 
-You can save your work by using one of the options in the **Share** menu. You will get a link that you can copy and either save somewhere, for example in a document, or send to someone via email.
+आप ** Share** मेन्यू में से किसी एक विकल्प का उपयोग करके अपना काम सहेज सकते हैं । आपको एक लिंक मिलेगा जिसे आप कॉपी कर सकते हैं और या तो कहीं भी सहेज सकते हैं, उदाहरण के लिए अपने कंप्यूटर पर किसी टेक्स्ट फाइल में, या ईमेल के माध्यम से किसी को भेज भी सकते हैं।
 
-**Note:** each time you make a change to your code, you will get a new link.
+** ध्यान दें: ** हर बार जब आप अपने कोड में बदलाव करते हैं, तो आपको एक नया लिंक मिलेगा।
 
-If you want to create an account on Trinket, follow the steps below. This will allow you to access your work easily from any computer, and to **remix** projects somebody else has shared with you. Remixing means you save a copy of a project to your account so you can make your own changes to it.
+यदि आप ट्रिंकेट पर एक अकाउन्ट बनाना चाहते हैं, तो नीचे दिए गए चरणों का पालन करें। यह आपको आसानी से किसी भी कंप्यूटर से अपने काम तक पहुँचने की सुविधा देगा तथा किसी और के द्वारा शेयर की गयी प्रोजेक्ट आप ** रीमिक्स (remix)** भी कर पाएंगे। रीमिक्सिंग (Remixing) का मतलब है कि आप किसी प्रोजेक्ट की एक कापी सहेजेंगे ताकि आप उसमें खुद बदलाव कर सकें।
 
-- Go to [the Trinket website](http://dojo.soy/trinket){:target="_blank"} and click **Sign Up For Your Free Account**. You will need an email address to sign up.
+- [Trinket](http://dojo.soy/trinket) वेबसाइट पर जाएं और **Sign Up For Your Free Account** पर क्लिक करें । साइन अप करने के लिए आपको एक ईमेल की आवश्यकता होगी।
 
-- Enter your email address and choose a password, or ask somebody to do this for you.
+- अपना ईमेल दर्ज करें और एक पासवर्ड चुनें, या यह करने में किसी की सहायता ले।
 
-- You can now access all your saved or remixed projects by clicking on your username and going to **My Trinkets**.
+- अब आप अपने उपयोगकर्ता नाम (username) पर क्लिक करके अपनी सभी सहेजी गई या रीमिक्स की गई प्रोजेक्ट को **My Trinkets** पर जाकर देख सकते हैं।
 
-!["My Trinkets" menu item](images/myTrinketsMenu.png)
+!["My Trinkets" मेन्यू आइटम्स](images/myTrinketsMenu.png)
 
 --- /collapse ---
 
@@ -48,37 +48,37 @@ If you want to create an account on Trinket, follow the steps below. This will a
 
 --- task ---
 
-Find the line that says `<p>Hello World</p>` and replace the text between `<p>` and `</p>` to say who your favourite celebrity is. **Don't** remove the `<p>` and `</p>`. These are **paragraph** HTML tags. They are used to define a paragraph of text. You should see your web page change on the right-hand side.
+उस लाइन को खोजें जिसमें `<p>Hello World</p>` लिखा है और `<p>` और `</p>` के बीच लिखे टेक्स्ट को अपने पसंदीदा हस्ती के नाम से बदल दें। `<p>` और `</p>` को **ना** हटाएं। ये HTML के **पैराग्राफ (paragraph)** टैग हैं। इनका उपयोग टेक्स्ट (text) के एक पैराग्राफ (paragraph) को परिभाषित करने के लिए किया जाता है। आपको अपना वेबपेज दाईं ओर अपडेट होता दिखना चाहिए।
 
-![Hello World in the code](images/helloWorldLine.png "Hello World")
+![आपके कोड में Hello World](images/helloWorldLine.png "Hello World")
 
 --- /task ---
 
---- task ---
+-- task ---
 
-Add a new line, and this time use `<h1>` and `</h1>` instead of `<p>` and `</p>`. These are **heading** HTML tags. They enlarge the text in between them and make it bold.
+एक नई पंक्ति जोड़ें, और इस बार `<p>` और `</p>` के बजाय `<h1>` और <1>&lt;/h1&gt;</1> का उपयोग करें। ये HTML के **हैडिंग (heading)** टैग हैं। वे अपने बीच में लिखे टेक्स्ट (text) को बड़ा करते हैं और इसे बोल्ड (bold) बनाते हैं।
 
 ```html
-  <h1>Welcome to my webpage!</h1>
+  <h1> मेरे वेबपेज में आपका स्वागत है! </h1>
 ```
 
 --- collapse ---
 ---
-title: HTML and tags explained
+title: HTML और टैग की व्याख्या
 ---
 
-**HTML** is the language that makes your web page.
+**HTML** वह भाषा है जो आपके वेब पेज को बनाती है।
 
-The `.html` in the file name, which you can see at the top of the left-hand side of the trinket, tells the browser that the file is a web page, so the browser knows to look for **tags** telling it what to display. (A browser is the program you use to look at websites, for example Google Chrome or Mozilla Firefox.)
+`.html` फाइल के नाम में, जिसे आप trinket के बाईं ओर के शीर्ष पर देख सकते हैं, ब्राउज़र को बताता है कि फाइल एक वेब पेज है, इसलिए ब्राउज़र ** टैग ** को खोजता है जो उसे यह बताते हैं की क्या प्रदर्शित करना है। (एक ब्राउज़र वह प्रोग्राम है जिसका उपयोग आप वेबसाइटों को देखने के लिए करते हैं, उदाहरण के लिए Google Chrome या Mozilla Firefox।)
 
-HTML tags such as `<p>` and `</p>` define different pieces of a page, for example paragraphs, headings, or the body. The pieces are all called **elements**. Think of them as building blocks for web pages.
+HTML टैग्स जैसे `<p>` और ` </p>` पृष्ठ के विभिन्न टुकड़ों को परिभाषित करते है, उदाहरण के लिए पैराग्राफ (paragraph), हैडिंग (heading) या बॉडी (body)। इन टुकड़ों को **एलीमेंट्स (elements)** कहा जाता है । उन्हें वेबपेजेस के निर्माण की ईंटों के रूप में सोचें।
 
-### Why do I need two tags?
-You need an **opening** and a **closing** tag to tell the browser where an element **starts** and **ends**. So for a paragraph, the opening tag `<p>` says "Here comes some text that I want you to display as a paragraph." to the browser, and the closing tag `</p>` tells the browser where the paragraph ends.
+### मुझे दो टैग की आवश्यकता क्यों है?
+आपको एक टैग ** खोलने ** और एक टैग ** समापन ** के लिए चाहिए ताकि ब्राउज़र को बता सकें की एलीमेंट् (element) कहाँ **शुरू** होते हैं और कहाँ **अंत** । तो एक पैराग्राफ (paragraph) के लिए, शुरू का `<p>` टैग कहता है "यहां कुछ टेक्स्ट (text) है जो मैं चाहता हूं कि आप ब्राउज़र को एक अनुच्छेद के रूप में प्रदर्शित करें।" और समापन ` </p>` टैग उस ब्राउज़र को बताता है कि कहाँ पैराग्राफ समाप्त होता है।
 
-Everything in between the `<body>` and `</body>` tags is your web page.
+`<body>` और `</body>` टैग के बीच सब कुछ आपका वेबपेज है।
 
-- Notice how the closing tag **always** has a forward slash `/`.
+- ध्यान दें कि कैसे बंद होने वाले टैग के आगे ** हमेशा** एक स्लैश `/` होता है।
 
 --- /collapse ---
 
@@ -86,10 +86,10 @@ Everything in between the `<body>` and `</body>` tags is your web page.
 
 --- task ---
 
-Change the number in your heading tags to see the different heading sizes that are available. They can go from `<h1>` to `<h6>`. Remember to change the number in both the opening and closing tags!
+उपलब्ध हैडिंग (heading) आकारों को देखने के लिए अपने हैडिंग (heading) टैग में संख्या बदलें। वे `<h1>` से `<h6>` तक जा सकते हैं। खोलने और समापन करने वाले दोनों ही टैग में नंबर बदलना याद रखें!
 
 --- /task ---
 
-Congratulations — you have built your first web page. Next, you will style the web page!
+बधाई हो, आपने अपना पहला वेबपेज बना लिया है! अब, आप वेब पेज को स्टाइल (style) करेंगे!
 
-![Example of website at this stage](images/step2eg.png)
+![इस स्तर पर वेबसाइट का उदाहरण](images/step2eg.png)
