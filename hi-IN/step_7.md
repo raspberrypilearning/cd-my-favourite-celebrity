@@ -1,39 +1,39 @@
-## Display a Twitter profile
+## एक Twitter प्रोफ़ाइल प्रदर्शित करें
 
-Twitter also provides an easy way for you to use its services on your web page. This example is going to embed Maddie's Twitter profile on the web page, add your favourite celebrity's profile too if they have a Twitter.
+Twitter भी आपको अपने वेब पेज पर इसकी सेवाओं का उपयोग करने का एक आसान तरीका प्रदान करता है। यह उदाहरण वेब पेज पर Maddie के Twitter प्रोफाइल को एम्बेड करने जा रहा है, अपने पसंदीदा सेलिब्रिटी के प्रोफाइल को भी जोड़ें, अगर उनके पास Twitter हो।
 
 --- task ---
 
-First, find your favourite celebrity on Twitter, and copy the web address that's your browser's address bar, as seen in the image below.
+सबसे पहले, Twitter पर अपने पसंदीदा सेलिब्रिटी को खोजें, और उस वेब पते को कॉपी करें जो आपके ब्राउज़र के एड्रेस बार (address bar) में है, जैसा कि नीचे की छवि में देखा जा सकता है ।
 
-![Address bar highlighted](images/addressBarSelectedText.png)
+![एड्रेस बार हाइलाइटेड(highlighted) हो जाये](images/addressBarSelectedText.png)
 
-(Did you know the technical term for 'web address' is 'URL', which stands for 'Uniform Resource Locator'?)
+(क्या आप जानते हैं कि 'वेब एड्रेस' के लिए तकनीकी शब्द 'URL' है, जो 'यूनिफ़ॉर्म रिसोर्स लोकेटर' (Uniform Resource Locator) का संक्षिप्त रूप है)
 
 --- /task ---
 
 --- task ---
 
-Next, go to [publish.twitter.com](https://publish.twitter.com){:target="_blank"}, paste the URL in the box in the middle of the page, and click the arrow beside the box.
+फिर, [ publish.twitter.com ](https://publish.twitter.com) {:target="_blank"} पर जाएं, पेज के मध्य में स्थित बॉक्स में URL पेस्ट करे, और बॉक्स के पास तीर पर क्लिक करें।
 
-Then select the **Embedded Timeline** option on the left.
+फिर बाईं ओर पर स्थित **Embedded Timeline** विकल्प चुनें।
 
-Now you can select customisation options if you like. Click on **Customization options** and change the **How would you like this to look?** setting from **Light** to **Dark** or update the **Width** and **Height**. Change whatever options you would like, and then click **update**.
+यदि आप चाहें तो अब आप अनुकूलन विकल्पों का चयन कर सकते हैं। **Customization options** पर क्लिक करें और **How would you like this to look?** सेटिंग को **Light** से ** Dark ** में बदलें या ** Width** और ** Height ** को अपडेट करें । आप जो भी विकल्प चाहें, उसे बदलें और फिर ** update**पर क्लिक करें ।
 
-![Custimization options listed](images/twitterOptions.png)
+![अनुकूलन विकल्पों की सूची](images/twitterOptions.png)
 
-When you are done, or if you didn't change any settings, click the **Copy Code** button. This should make the message "Copied!" pop up on your screen.
+जब आप कर लें, या यदि आपने कोई सेटिंग नहीं बदली है, तो ** Copy Code ** बटन पर क्लिक करें । इससे आप के स्क्रीन पर यह संदेश "Copied!" पॉप अप होना चाहिए।
 
-![Copy message](images/copiedMessage.png)
+![संदेश कॉपी करे](images/copiedMessage.png)
 
 --- /task ---
 
 --- task ---
 
-Then go back to your website's HTML code, click in the place where you want to put the Twitter profile, and paste the code. Again, don't worry about understanding all the code you just pasted!
+फिर अपनी वेबसाइट के HTML कोड पर वापस जाएं, उस स्थान पर क्लिक करें जहां आप Twitter प्रोफाइल डालना चाहते हैं, और कोड पेस्ट करें। फिर से, उन सभी कोड को समझने के बारे में चिंता न करें जिन्हें आपने अभी-अभी पेस्ट किया है!
 
-![Twitter code on trinket](images/twitterCodeTkt.png)
+![Trinket पर Twitter का कोड](images/twitterCodeTkt.png)
 
 --- /task ---
 
-![Example of website at this stage](images/step7eg.png)
+![इस स्तर पर वेबसाइट का उदाहरण](images/step7eg.png)
