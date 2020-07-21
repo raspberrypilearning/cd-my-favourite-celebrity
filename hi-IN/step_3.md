@@ -1,12 +1,12 @@
-## Add style to your web page
+## अपने वेब पेज पर स्टाइल (style) जोड़ें
 
-The language that describes how a website looks is called **CSS**. This stands for 'cascading style sheets'.
+वह कोड जो यह बताये कि वेबसाइट कैसा दिखता है, उसे **CSS** कहते हैं। इसका अर्थ 'कैस्केडिंग स्टाइल शीट (cascading style sheets)' है।
 
 --- task ---
 
-Look at the top of the code panel in the trinket. Click on the tab that says `stylesheet.css`.
+Trinket में कोड पैनल के शीर्ष पर देखें। उस टैब पर क्लिक करें जहाँ `stylesheet.css` लिखा है ।
 
-Change the value `White` to `LightYellow`, and see what happens to your web page.
+वैल्यू (value) को बदलकर `White` से ` LightYellow` करें, और देखें कि आपके वेब पेज पर क्या होता है।
 
 ```css
 body {
@@ -14,37 +14,37 @@ body {
 }
 ```
 
-![CSS background-color in code](images/yellowBackground.png "Yellow Background Colour")
+![कोड में CSS background-color](images/yellowBackground.png "पीला रंग का बैकग्राउंड")
 
 --- /task ---
 
 --- collapse ---
 ---
-title: How does it work?
+title: यह कैसे काम करता है?
 ---
 
-If you look at the top of the `index.html` file, you will see the following line:
+यदि आप शीर्ष पर `index.html` फाइल को देखते हैं, आपको निम्न पंक्ति दिखाई देगी:
 
 ```html
   <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 ```
 
-This line of code tells the browser to look for a special file named `stylesheet.css`. This special file is called a **style sheet**. You can recognise a style sheet file by the `.css` in its name.
+यह पंक्ति ब्राउज़र को एक विशेष फ़ाइल की तलाश करने के लिए कहती है जिसका नाम `stylesheet.css` है। इस विशेष फाइल को **स्टाइल शीट (style sheet)** कहा जाता है । पीला रंग का बैकग्राउंड
 
-A style sheet contains **rules** for what the HTML elements on your web page should look like.
+स्टाइल शीट (style sheet) में **नियम** शामिल हैं जो बताते हैं आपके वेबपेज के प्रत्येक एलीमेंट (element) को कैसा दिखना चाहिए।
 
-The curly braces `{ }` and the code in between them are a set of **CSS rules**. The word `body` means that the rules are for all the `<body>` elements on your website. We call the bit in front of the curly braces a **selector**. So in this case, it is the selector for the `<body>` elements.
+घुंघराले ब्रेसिज़ `{ }` और उनके बीच का कोड ** CSS नियमों ** का एक समूह है । शब्द `body` का मतलब है की नियम आपकी वेबसाइट पर सभी `<body>` एलीमेंट्स (elements) के लिए है। घुंघराले ब्रेसिज़ के सामने वालेभाग को ** सिलेक्टर (selector) ** कहते हैं । तो इस मामले में, यह `<body>` के एलीमेंट्स (elements) के लिए सिलेक्टर है।
 
-Each rule inside the curly braces is made up of:
-  - A **property** on the left, followed by a colon symbol `:`
-  - After the colon, on the right-hand side, a **value** for the property
-  - A semicolon symbol `;` at the end
+घुंघराले ब्रेस के अंदर प्रत्येक नियम निम्न से बना है:
+  - बाईं ओर ** प्रॉपर्टी (property) **, इसके बाद एक बृहदान्त्र प्रतीक `:`
+  - बृहदान्त्र के बाद, दाईं ओर एक **वैल्यू (value) ** प्रॉपर्टी के लिए
+  - अतं में एक अर्ध-औपनिवेशिक प्रतीक `;`
 
 --- /collapse ---
 
 --- task ---
 
-Let's add two new **CSS rules** for the `<p>` tag: one for the text's `color`, and one for the text's `font-family`.
+आइए दो नए ** CSS नियम** जोड़ते हैं `<p>` टैग के लिए: टेक्स्ट (text) के ` रंग (color)` के लिए एक, और टेक्स्ट (text) के ` फ़ॉन्ट-परिवार (font-family)` के लिए एक ।
 
 ```css
 body {
@@ -56,17 +56,17 @@ p {
 }
 ```
 
-![CSS p selector rules in code](images/darkRedTextColour.png "now p selector has rules")
+![कोड में CSS p सिलेक्टर के नियम](images/darkRedTextColour.png "अभी p सिलेक्टर में नियम है")
 
-Notice the changes?
+बदलाव पर गौर करें?
 
-The `color` property changes the colour of all text inside the selector, the `<p>` tags. `font-family` changes how the letters of the text look.
+`color` प्रॉपर्टी `<p>` टैग, सिलेक्टर के अंदर सारे टेक्स्ट (text) का रंग बदलता है। ` font-family ` टेक्स्ट (text) के अक्षर कैसे दिखते हैं को बदलता है।
 
 --- /task ---
 
 --- task ---
 
-Next, you're going to use the `text-align` property on your `<h1>` tags to horizontally centre your heading. We can use the following values for this: `left`, `right`, or `center`. Try them out to see what they do!
+आगे आप अपने `<h1>`टैग्स को आड़े (horizontally) रूप से शीर्षक को केंद्र करने के लिए `text-align` प्रॉपर्टी (property) का उपयोग करेंगे |  हम इसके लिए निम्नलिखित वैल्यू का उपयोग कर सकते हैं: `left`, `right`, या `center`। उन्हें उपयोग करके देखें की वे क्या करते हैं!
 
 ```css
 h1 {
@@ -78,7 +78,7 @@ h1 {
 
 --- task ---
 
-Finally, you're going to add margins. The `margin` properties are used to create space around your elements. You are going to add a margin to the top of your `<p>` tag. The four margin properties are `margin-top`, `margin-right`, `margin-bottom`, and `margin-left`.
+अंत में, आप मार्जिन जोड़ने जा रहे हैं। `margin ` प्रॉपर्टी का उपयोग आपके एलीमेंट्स के आसपास जगह बनाने के लिए किया जाता है। आप अपने `<p>` टैग के शीर्ष पर एक मार्जिन जोड़ने जा रहे हैं। `margin-top`, `margin-right`, `margin-bottom`, और `margin-left` चार मार्जिन प्रॉपर्टी हैं ।
 
 ```css
 p {
@@ -88,8 +88,8 @@ p {
 }
 ```
 
-This moves the paragraph down the page `100px`. `100px` means one hundred **pixels**, which are the tiny dots that make up what you're seeing on your screen. You can delete this gap if you don't like it, but knowing how to add margins to your HTML elements will be useful later in the project to move other things you'll add to your web page, such as pictures and videos.
+इससे पैराग्राफ, पेज पर `100px` नीचे की ओर खिसक जाता है। ` 100px ` का मतलब है एक सौ ** पिक्सेल (pixels)**, जो छोटे बिंदु हैं जो आपके स्क्रीन पर दिखाई देते हैं। यदि आप इसे पसंद नहीं करते हैं, तो आप इस अंतर को हटा सकते हैं, लेकिन यह जानना कि आपके HTML एलीमेंट्स में मार्जिन्स को कैसे जोड़ा जाए, प्रोजेक्ट में आगे चलकर आपके वेब पेज में शामिल अन्य चीजों को स्थानांतरित करने के लिए उपयोगी होगा, जैसे कि चित्र और वीडियो।
 
 --- /task ---
 
-![Example of website at this stage](images/step3eg.png)
+![इस स्तर पर वेबसाइट का उदाहरण](images/step3eg.png)
