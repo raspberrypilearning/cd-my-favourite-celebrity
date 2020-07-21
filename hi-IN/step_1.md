@@ -41,7 +41,7 @@ title: आप क्या सीखेंगे
 
 ### शिक्षकों के लिए अधिक जानकारी
 
-अगर आपको इस प्रोजेक्टप्रिंटर अनुकूल वर्ज़न को प्रिंट करने की आवश्यकता है, तो कृपया [printer-friendly version](https://projects.raspberrypi.org/en/projects/cd-my-favourite-celebrity/print){:target="_blank"} का उपयोग करें।
+अगर आपको इस प्रोजेक्ट को प्रिंट करने की ज़रूरत है, तो कृपया [प्रिंटर-अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/cd-my-favourite-celebrity/print){:target="_blank"} का उपयोग करें।
 
 इस प्रोजेक्ट के लिए GitHub रिपॉजिटरी का उपयोग करने के लिए फुटर में दिए लिंक का उपयोग करें, जिसमें 'en/resources' फोल्डर में सभी संसाधन (तैयार प्रोजेक्ट के उदाहरण सहित) हैं।
 
