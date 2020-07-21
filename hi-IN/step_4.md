@@ -1,27 +1,27 @@
 --- challenge ---
 
-## Challenge: style your heading
+## चुनौती: अपनी हेडिंग को स्टाइल(style) करें
 
-+ Make your heading `YellowGreen` with a `Brown` background and use the `Impact` font.
++ अपनी हेडिंग को `YellowGreen` के साथ ` Brown ` पृष्ठभूमि पर बनाएं और ` Impact ` फ़ॉन्ट का उपयोग करें ।
 
 --- hints ---
 
 --- hint ---
 
-To create CSS rules, you must have a selector, e.g. `h1`, and some curly braces `{ }` to put the rules in.
+CSS नियम बनाने के लिए, आपके पास एक सिलेक्टर (selector) होना चाहिए, जैसे ` h1 ` , और कुछ घुंघराले ब्रेसिज़ `{ }` नियमों को उनके अंदर लिखने के लिए।
 
 --- /hint ---
 
 --- hint ---
 
-+ A rule must have a property, e.g. `color`, followed by a colon `:` and a value, e.g. `Blue`
-+ A rule must always end with a semi-colon `;`
++ एक नियम में एक प्रॉपर्टी होना जरुरी है, उदाहरण के लिए ` color `, इसके बाद एक बृहदान्त्र `: ` और एक वैल्यू, उदाहरण के लिए ` नीला `
++ एक नियम को हमेशा अर्धविराम `; ` के साथ समाप्त करना चाहिए।
 
 --- /hint ---
 
 --- hint ---
 
-Here are some rules for a `<h1>` tag:
+यहाँ `<h1>` टैग के लिए कुछ नियम हैं:
 
 ```css
   h1 {
@@ -37,8 +37,8 @@ Here are some rules for a `<h1>` tag:
 
 --- /challenge ---
 
-You can find more fonts [here](https://www.w3schools.com/cssref/css_websafe_fonts.asp){:target="_blank"} and more colours [here](https://www.w3schools.com/colors/colors_names.asp){:target="_blank"}.
+आप [यहां](https://www.w3schools.com/cssref/css_websafe_fonts.asp){:target="_blank"} अधिक फ़ॉन्ट पा सकते हैं और यहां [ अधिक रंग ](https://www.w3schools.com/colors/colors_names.asp){:target="_blank"}।
 
-Next, you'll learn about adding images to your web page.
+इसके बाद, आप अपने वेब पेज पर चित्र जोड़ने के बारे में जानेंगे।
 
-![Example of website at this stage](images/step4eg.png)
+![इस स्तर पर वेबसाइट का उदाहरण](images/step4eg.png)
