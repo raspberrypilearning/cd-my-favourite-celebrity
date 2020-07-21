@@ -1,24 +1,24 @@
-## Create links to other websites
+## अन्य वेबसाइटों के लिंक बनाएं
 
-Now you're going to add a **link** to another website to your page. As my example, I will add a link to Maddie's Wikipedia page: [wikipedia.org/wiki/Maddie_Moate](https://en.wikipedia.org/wiki/Maddie_Moate){:target="_blank"}
+अब आप किसी अन्य वेबसाइट का एक ** लिंक ** अपने पेज पर जोड़ने जा रहे हैं । अपने उदाहरण के रूप में, हम Maddie के Wikipedia पेज का एक लिंक जोड़ेंगे: [wikipedia.org/wiki/Maddie_Moate](https://en.wikipedia.org/wiki/Maddie_Moate){:target="_blank"}
 
 --- task ---
 
-To link to another website, you need to use the `<a> </a>` tags. `a` is short for **anchor**. This is the code for my example link:
+किसी अन्य वेबसाइट से लिंक करने के लिए, आपको `<a> </a>` टैग का उपयोग करना होगा। ` a ` ** एंकर (anchor)** का संक्षिप्त रूप है । यह मेरे उदाहरण लिंक के लिए कोड है:
 
 ```html
-<a href="https://en.wikipedia.org/wiki/Maddie_Moate" >This is the link to Maddie's Wikipedia page.</a>
+<a href="https://en.wikipedia.org/wiki/Maddie_Moate" > यह Maddie के Wikipedia पेज का लिंक है। </a>
 ```
 
-The `href` attribute should contain the URL of the website that you wish to link to. The text between `<a>` and `</a>` is the text that will appear on your page and that people will be able to click on to go to the linked website.
+` href ` एट्रिब्यूट (attribute) में उस वेबसाइट का URL होना चाहिए जिसे आप लिंक करना चाहते हैं। `<a>` और `</a>` के बीच वह टेक्स्ट (text) है जो आपके पेज पर दिखाई देगा और लोग लिंक की गई वेबसाइट पर जाने के लिए उस पर क्लिक कर सकेंगे।
 
-![URL in address bar](images/addressBarExample.png)
+![एड्रेस बार (address bar) पर URL](images/addressBarExample.png)
 
 --- /task ---
 
 --- task ---
 
-By default, any links you add will be blue and have a line under them. To change how they look, you can use the following CSS rule:
+डिफ़ॉल्ट रूप से, आपके द्वारा जोड़ा गया कोई भी लिंक नीला होगा और उनके नीचे एक रेखा होगी। यह बदलने के लिए कि वे कैसे दिखते हैं, आप निम्नलिखित CSS नियम का उपयोग कर सकते हैं:
 
 ```css
 a {
@@ -27,7 +27,7 @@ a {
 }
 ```
 
-You can easily move your link to a new line too! Just surround it by paragraph tags `<p>`:
+आप आसानी से एक नई लाइन में भी अपने लिंक को ले जा सकते हैं! बस इसे पैराग्राफ टैग `<p>` से घेरें:
 
 ```html
 <p><a href="MyLink">My Text</a></p>
@@ -37,15 +37,15 @@ You can easily move your link to a new line too! Just surround it by paragraph t
 
 --- collapse ---
 ---
-title: Some links not working?
+title: कुछ लिंक काम नहीं कर रहे हैं?
 ---
 
-Most big web services, such as Twitter and Facebook, don't allow their website to be opened in an `<iframe>`, which is what Trinket uses to show you your website in the box on the right-hand side. If you download your HTML code and open it with a browser, links to such sites will work, because your browser doesn't use iframes. But if you include the attribute `target="_blank"` in the `<a>` anchor tag of a link, it will work in Trinket: the linked website will open in a new browser tab.
+अधिकांश बड़ी वेब सेवाएं (web services), जैसे Twitter और Facebook, अपनी वेबसाइट को `<iframe>` में खोलने की अनुमति नहीं देते हैं, जो कि Trinket आपकी वेबसाइट को दाईं ओर बॉक्स में आपको दिखाने के लिए उपयोग करती है। यदि आप अपना HTML कोड को डाउनलोड करते हैं और इसे ब्राउज़र से खोलते हैं, तो ऐसी साइटों के लिंक काम करेंगे, क्योंकि आपका ब्राउज़र iframes का उपयोग नहीं करता है। लेकिन अगर आप एट्रिब्यूट (attribute) `target="_blank"` को एक लिंक के `<a>` एंकर टैग में जोड़ते हैं, तो यह Trinket में काम करेगा: लिंक की गई वेबसाइट एक नए ब्राउज़र टैब में खुलेगी।
 
 ```html
-<a href="https://www.twitter.com/" target="_blank">Opens in a new tab</a>
+<a href="https://www.twitter.com/" target="_blank"> एक नए टैब में खुलता है </a>
 ```
 
 --- /collapse ---
 
-![Example of website at this stage](images/step8eg.png)
+![इस स्तर पर वेबसाइट का उदाहरण](images/step8eg.png)
