@@ -1,19 +1,19 @@
-## Challenge: more pages
+## चुनौती: अधिक पेज
 
 --- challenge ---
 
-Using what you've just learned, create more web pages about members of your favourite band, the cast of your favourite movie or TV show, or the players on your favourite sports team!
+जो आपने अभी सीखा है उसका उपयोग करके, अपने पसंदीदा बैंड के सदस्यों, अपनी पसंदीदा मूवी या टीवी शो के कलाकारों या अपनी पसंदीदा स्पोर्ट्स टीम के खिलाड़ियों के बारे में और अधिक वेब पेज बनाएं!
 
 --- collapse ---
 ---
-title: How to create a new file on Trinket
+title: Trinket पर एक नई फाइल कैसे बनाएं
 ---
 
-+ Click the plus button to the right of your current files called `index.html` and `stylesheet.css`.
++ अपनी वर्तमान फ़ाइलों ` index.html ` और`stylesheet.css` के दाईं ओर स्थित प्लस बटन पर क्लिक करें।
 
-+ Enter a file name, for example `bandmember1.html` or `eddiemurphy.html`. **Remember to include the `.html`!**
++ एक फाइल नाम दर्ज करें, उदाहरण के लिए ` bandmember1.html ` या ` eddiemurphy.html ` । ** `.html` शामिल करना याद रखें! **
 
-+ Copy and paste the following basic HTML code, which often called **boilerplate code**:
++ निम्न मूल HTML कोड को कॉपी और पेस्ट करें, जिसे अक्सर ** बॉयलरप्लेट (boilerplate) कोड** कहा जाता है:
 
 ``` html
     <html>
@@ -31,12 +31,12 @@ title: How to create a new file on Trinket
 
 --- collapse ---
 ---
-title: How to move between your pages
+title: अपने एक पेज से दूसरे पेज पर कैसे जाएं
 ---
 
-+ To create a link between two of your pages, you can use the `<a> </a>` tag.
++ अपने दो पेजों के बीच एक लिंक बनाने के लिए, आप `<a> </a>` टैग का उपयोग कर सकते हैं ।
 
-+ Put an `href` attribute in the opening tag and set it equal `=` to the filename of the page you would like to link to. As usual, the text in between the opening and closing tags will be displayed as the link on the web page.
++ खुलने वाले टैग में एक ` href ` एट्रिब्यूट (attribute) लगाएं और इसे उस पेज के फाइल नाम के समान `=` सेट करें जिससे आप इसे लिंक लरना चाहते हैं। हमेशा की तरह, खुलने और बंद होने वाले टैग के बीच के टेक्स्ट को वेब पेज पर लिंक के रूप में प्रदर्शित किया जाएगा।
 
 ``` html
     <html>
@@ -51,13 +51,13 @@ title: How to move between your pages
     </html>
 ```
 
-![Local relative link](images/localRelativeLink.png)
+![लोकल संबंधी लिंक](images/localRelativeLink.png)
 
 --- /collapse ---
 
 --- /challenge ---
 
-Here is a website I made about my favourite soccer team, FC Barcelona:
+यहाँ एक वेबसाइट है जिसे मैंने अपनी पसंदीदा फुटबॉल टीम, FC बार्सिलोना के बारे में बनाया है:
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/4dbd80d6d3?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
