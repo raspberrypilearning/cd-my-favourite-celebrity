@@ -1,29 +1,29 @@
-## Add YouTube videos to your page
+## अपने पेज पर YouTube वीडियो जोड़ें
 
-Adding elements from other online sources is called **embedding**. YouTube provides an easy way for you to embed its videos in your web page. Let's include a video about your celebrity. For this example, I'm adding a video from Maddie's YouTube channel, but you could add an interview, music video, movie trailer, or any other clip with your favourite celebrity.
+अन्य ऑनलाइन स्रोतों से एलीमेंट्स (elements) को जोड़ना ** embedding** कहलाता है । YouTube आपके लिए अपनी वीडियो को आपकी वेबसाइट पर जोड़ने का एक आसान तरीका देता है। आइए आपकी हस्ती के बारे में एक वीडियो शामिल करें। इस उदाहरण के लिए, हम Maddie के YouTube चैनल से एक वीडियो जोड़ रहे है, लेकिन आप अपनी पसंदीदा हस्ती के साथ एक साक्षात्कार, संगीत वीडियो, मूवी ट्रेलर, या कोई अन्य क्लिप जोड़ सकते हैं।
 
 --- task ---
 
-Find a video on YouTube that you want to show on your website.
+YouTube पर एक वीडियो ढूंढें जिसे आप अपनी वेबसाइट पर दिखाना चाहते हैं।
 
-Click on the **Share** button below the video, beside the likes. Select the option **Embed**.
+वीडियो के नीचे, पसंद के बगल में बने ** Share** बटन पर क्लिक करें । ** Embed** विकल्प का चयन करें।
 
-You will see a text box with some code in it, which you'll need to copy. The easiest way to do that is this: select it all by clicking on it and pressing the <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>A</kbd> keys at the same time.
+आपको इसमें कुछ कोड के साथ एक टेक्स्ट (text) बॉक्स दिखाई देगा, जिसे आपको कॉपी करना होगा। ऐसा करने का सबसे आसान तरीका है: सारा चुनने के लिए उस पर क्लिक करें और <kbd> Ctrl </kbd> (या <kbd> cmd </kbd> एक Mac पर) और <kbd>A </kbd> अपने कीबोर्ड पर एक ही समय में दबाएं।
 
-![Selected Text and copy gif](images/clickCopy.gif)
+![चुने हुए टेक्स्ट और gif का कॉपी](images/clickCopy.gif)
 
-Then to copy the text, press the <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>C</kbd> keys at the same time, or right-click and select **Copy**.
+फिर टेक्स्ट को कॉपी करने के लिए <kbd> Ctrl </kbd> (या <kbd> cmd </kbd> एक Mac पर) और <kbd> C </kbd> अपने कीबोर्ड पर एक ही समय पर दबाएँ, या राइट-क्लिक करें और ** कॉपी करें ** ।
 
 --- /task ---
 
 --- task ---
 
-Now go back to your website's HTML code, and click in the place where you want to put the video, for example below a heading or paragraph. Add the code you've copied by pressing <kbd>Ctrl</kbd> (or <kbd>cmd</kbd> on a Mac) and <kbd>V</kbd> on your keyboard at the same time, or by right-clicking and selecting **Paste**. Don't worry about understanding all the code you just pasted! You should see the video appear on your web page.
+अब अपनी वेबसाइट के HTML कोड पर वापस जाएं, और उस स्थान पर क्लिक करें जहां आप वीडियो डालना चाहते हैं, उदाहरण के लिए एक शीर्षक या अनुच्छेद के नीचे। आपके द्वारा कॉपी किया गया कोड को जोड़ने के लिए <kbd> Ctrl </kbd> (या <kbd> cmd </kbd> एक Mac पर) और <kbd> V </kbd> अपने कीबोर्ड पर एक साथ दबाएं, या राइट-क्लिक करें और ** Paste ** चुनें। आपके द्वारा अभी-अभी पेस्ट किए गए सभी कोड को समझने की चिंता न करें! आपको अपने वेब पेज पर वीडियो दिखाई देना चाहिए।
 
-![Pasted code on trinket](images/pastedVideoCode.png)
+![Trinket में कोड को पेस्ट किया गया](images/pastedVideoCode.png)
 
-If you look carefully, you should find `width` and `height` **attributes** in the pasted code. You can change their values to make your video appear bigger or smaller.
+यदि आप ध्यान से देखें, तो आपको `width` और ` height` **एट्रीब्यूट्स (attributes)** पेस्ट किए गए कोड में मिलनी चाहिए। वीडियो को बड़ा या छोटा दिखाने के लिए आप उनकी वैल्यू (value) बदल सकते हैं।
 
 --- /task ---
 
-![Example of website at this stage](images/step6eg.png)
+![इस स्तर पर वेबसाइट का उदाहरण](images/step6eg.png)
