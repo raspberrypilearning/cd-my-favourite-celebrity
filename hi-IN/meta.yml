@@ -9,16 +9,20 @@ version: 4.0.1
 listed: true
 copyedit: true
 ingredient: false
-last_tested: "2019-5-21"
+last_tested: '2019-5-21'
 steps:
-  - title: परिचय
-  - title: शुरू करें
-  - title: अपने वेब पेज पर स्टाइल (style) जोड़ें
-  - title: "चुनौती: अपनी हेडिंग को स्टाइल (style) करें"
-    challenge: true
-  - title: अपने पेज पर फ़ोटो दिखाएं
-  - title: अपने पेज पर YouTube वीडियो जोड़ें
-  - title: एक Twitter प्रोफ़ाइल प्रदर्शित करें
-  - title: अन्य वेबसाइटों के लिंक बनाएं
-  - title: "चुनौती: और पेज"
-    challenge: true
+- title: परिचय
+- title: शुरू करें
+- title: अपने वेब पेज पर स्टाइल (style) जोड़ें
+  completion:
+  - engaged
+- title: 'चुनौती: अपनी हेडिंग को स्टाइल (style) करें'
+  challenge: true
+- title: अपने पेज पर फ़ोटो दिखाएं
+- title: अपने पेज पर YouTube वीडियो जोड़ें
+- title: एक Twitter प्रोफ़ाइल प्रदर्शित करें
+- title: अन्य वेबसाइटों के लिंक बनाएं
+  completion:
+  - internal
+- title: 'चुनौती: और पेज'
+  challenge: true
