@@ -12,15 +12,17 @@ ingredient: false
 last_tested: '2019-5-21'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Get started
 - title: Add style to your web page
+  completion:
+  - engaged
 - title: 'Challenge: style your heading'
   challenge: true
 - title: Show photos on your page
 - title: Add YouTube videos to your page
 - title: Display a Twitter profile
-  completion: internal
 - title: Create links to other websites
+  completion:
+  - internal
 - title: 'Challenge: more pages'
   challenge: true
